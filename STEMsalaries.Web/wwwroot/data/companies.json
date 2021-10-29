@@ -1,0 +1,4410 @@
+[
+  {
+    "Id": 1,
+    "CompanyName": "10x Genomics"
+  },
+  {
+    "Id": 2,
+    "CompanyName": "23andMe"
+  },
+  {
+    "Id": 3,
+    "CompanyName": "2U"
+  },
+  {
+    "Id": 4,
+    "CompanyName": "3m"
+  },
+  {
+    "Id": 5,
+    "CompanyName": "7-Eleven"
+  },
+  {
+    "Id": 6,
+    "CompanyName": "8x8"
+  },
+  {
+    "Id": 7,
+    "CompanyName": "Â Google"
+  },
+  {
+    "Id": 8,
+    "CompanyName": "ABB"
+  },
+  {
+    "Id": 9,
+    "CompanyName": "Abbott"
+  },
+  {
+    "Id": 10,
+    "CompanyName": "Accenture"
+  },
+  {
+    "Id": 11,
+    "CompanyName": "Acorns"
+  },
+  {
+    "Id": 12,
+    "CompanyName": "Acquia"
+  },
+  {
+    "Id": 13,
+    "CompanyName": "ActionIQ"
+  },
+  {
+    "Id": 14,
+    "CompanyName": "ActiveCampaign"
+  },
+  {
+    "Id": 15,
+    "CompanyName": "Activision"
+  },
+  {
+    "Id": 16,
+    "CompanyName": "Addepar"
+  },
+  {
+    "Id": 17,
+    "CompanyName": "Adevinta"
+  },
+  {
+    "Id": 18,
+    "CompanyName": "adidas"
+  },
+  {
+    "Id": 19,
+    "CompanyName": "Adobe"
+  },
+  {
+    "Id": 20,
+    "CompanyName": "ADP"
+  },
+  {
+    "Id": 21,
+    "CompanyName": "Adyen"
+  },
+  {
+    "Id": 22,
+    "CompanyName": "Aetna"
+  },
+  {
+    "Id": 23,
+    "CompanyName": "Affirm"
+  },
+  {
+    "Id": 24,
+    "CompanyName": "Afterpay"
+  },
+  {
+    "Id": 25,
+    "CompanyName": "Agoda"
+  },
+  {
+    "Id": 26,
+    "CompanyName": "AIG"
+  },
+  {
+    "Id": 27,
+    "CompanyName": "Airbnb"
+  },
+  {
+    "Id": 28,
+    "CompanyName": "Airbus"
+  },
+  {
+    "Id": 29,
+    "CompanyName": "Airtable"
+  },
+  {
+    "Id": 30,
+    "CompanyName": "Airtel India"
+  },
+  {
+    "Id": 31,
+    "CompanyName": "Akamai"
+  },
+  {
+    "Id": 32,
+    "CompanyName": "Akamai Technologies"
+  },
+  {
+    "Id": 33,
+    "CompanyName": "Akuna Capital"
+  },
+  {
+    "Id": 34,
+    "CompanyName": "Alarm.com"
+  },
+  {
+    "Id": 35,
+    "CompanyName": "Alaska Airlines"
+  },
+  {
+    "Id": 36,
+    "CompanyName": "Alation"
+  },
+  {
+    "Id": 37,
+    "CompanyName": "Albertsons"
+  },
+  {
+    "Id": 38,
+    "CompanyName": "Algolia"
+  },
+  {
+    "Id": 39,
+    "CompanyName": "Alibaba"
+  },
+  {
+    "Id": 40,
+    "CompanyName": "Align Technology"
+  },
+  {
+    "Id": 41,
+    "CompanyName": "Allianz"
+  },
+  {
+    "Id": 42,
+    "CompanyName": "Allstate"
+  },
+  {
+    "Id": 43,
+    "CompanyName": "Ally"
+  },
+  {
+    "Id": 44,
+    "CompanyName": "Alphasights"
+  },
+  {
+    "Id": 45,
+    "CompanyName": "Alteryx"
+  },
+  {
+    "Id": 46,
+    "CompanyName": "Altran"
+  },
+  {
+    "Id": 47,
+    "CompanyName": "Ama"
+  },
+  {
+    "Id": 48,
+    "CompanyName": "Amadeus"
+  },
+  {
+    "Id": 49,
+    "CompanyName": "Amazon"
+  },
+  {
+    "Id": 50,
+    "CompanyName": "Amazon web services"
+  },
+  {
+    "Id": 51,
+    "CompanyName": "Amazon.com"
+  },
+  {
+    "Id": 52,
+    "CompanyName": "AMD"
+  },
+  {
+    "Id": 53,
+    "CompanyName": "Amdocs"
+  },
+  {
+    "Id": 54,
+    "CompanyName": "American airlines"
+  },
+  {
+    "Id": 55,
+    "CompanyName": "American Express"
+  },
+  {
+    "Id": 56,
+    "CompanyName": "American family insurance"
+  },
+  {
+    "Id": 57,
+    "CompanyName": "amgen"
+  },
+  {
+    "Id": 58,
+    "CompanyName": "Amobee"
+  },
+  {
+    "Id": 59,
+    "CompanyName": "Amplitude"
+  },
+  {
+    "Id": 60,
+    "CompanyName": "amzon"
+  },
+  {
+    "Id": 61,
+    "CompanyName": "Analog Devices"
+  },
+  {
+    "Id": 62,
+    "CompanyName": "Anaplan"
+  },
+  {
+    "Id": 63,
+    "CompanyName": "Ancestry"
+  },
+  {
+    "Id": 64,
+    "CompanyName": "Andela"
+  },
+  {
+    "Id": 65,
+    "CompanyName": "Anduril Industries"
+  },
+  {
+    "Id": 66,
+    "CompanyName": "Anonymous"
+  },
+  {
+    "Id": 67,
+    "CompanyName": "ANSYS"
+  },
+  {
+    "Id": 68,
+    "CompanyName": "AppDirect"
+  },
+  {
+    "Id": 69,
+    "CompanyName": "AppDynamics"
+  },
+  {
+    "Id": 70,
+    "CompanyName": "AppFolio"
+  },
+  {
+    "Id": 71,
+    "CompanyName": "Appian"
+  },
+  {
+    "Id": 72,
+    "CompanyName": "Appier"
+  },
+  {
+    "Id": 73,
+    "CompanyName": "Apple"
+  },
+  {
+    "Id": 74,
+    "CompanyName": "Apple Inc."
+  },
+  {
+    "Id": 75,
+    "CompanyName": "Applied Materials"
+  },
+  {
+    "Id": 76,
+    "CompanyName": "Applovin"
+  },
+  {
+    "Id": 77,
+    "CompanyName": "Apptio"
+  },
+  {
+    "Id": 78,
+    "CompanyName": "Aptiv"
+  },
+  {
+    "Id": 79,
+    "CompanyName": "Arcesium"
+  },
+  {
+    "Id": 80,
+    "CompanyName": "Argo AI"
+  },
+  {
+    "Id": 81,
+    "CompanyName": "Arista"
+  },
+  {
+    "Id": 82,
+    "CompanyName": "Arista Networks"
+  },
+  {
+    "Id": 83,
+    "CompanyName": "Arm"
+  },
+  {
+    "Id": 84,
+    "CompanyName": "Arrival"
+  },
+  {
+    "Id": 85,
+    "CompanyName": "ARUBA"
+  },
+  {
+    "Id": 86,
+    "CompanyName": "Aruba Networks"
+  },
+  {
+    "Id": 87,
+    "CompanyName": "Asana"
+  },
+  {
+    "Id": 88,
+    "CompanyName": "ASML"
+  },
+  {
+    "Id": 89,
+    "CompanyName": "Astrazeneca"
+  },
+  {
+    "Id": 90,
+    "CompanyName": "Asurion"
+  },
+  {
+    "Id": 91,
+    "CompanyName": "Asus"
+  },
+  {
+    "Id": 92,
+    "CompanyName": "AT Kearney"
+  },
+  {
+    "Id": 93,
+    "CompanyName": "AT&T"
+  },
+  {
+    "Id": 94,
+    "CompanyName": "Athenahealth"
+  },
+  {
+    "Id": 95,
+    "CompanyName": "Atlassian"
+  },
+  {
+    "Id": 96,
+    "CompanyName": "Attentive"
+  },
+  {
+    "Id": 97,
+    "CompanyName": "Audible"
+  },
+  {
+    "Id": 98,
+    "CompanyName": "Aurora"
+  },
+  {
+    "Id": 99,
+    "CompanyName": "Auth0"
+  },
+  {
+    "Id": 100,
+    "CompanyName": "Autodesk"
+  },
+  {
+    "Id": 101,
+    "CompanyName": "Automattic"
+  },
+  {
+    "Id": 102,
+    "CompanyName": "Autonomic"
+  },
+  {
+    "Id": 103,
+    "CompanyName": "Avalara"
+  },
+  {
+    "Id": 104,
+    "CompanyName": "Avanade"
+  },
+  {
+    "Id": 105,
+    "CompanyName": "Avaya"
+  },
+  {
+    "Id": 106,
+    "CompanyName": "AWS"
+  },
+  {
+    "Id": 107,
+    "CompanyName": "Axon"
+  },
+  {
+    "Id": 108,
+    "CompanyName": "Babylon Health"
+  },
+  {
+    "Id": 109,
+    "CompanyName": "BAE Systems"
+  },
+  {
+    "Id": 110,
+    "CompanyName": "Baidu"
+  },
+  {
+    "Id": 111,
+    "CompanyName": "Bain"
+  },
+  {
+    "Id": 112,
+    "CompanyName": "Bain & Company"
+  },
+  {
+    "Id": 113,
+    "CompanyName": "Bandwidth"
+  },
+  {
+    "Id": 114,
+    "CompanyName": "Bank of America"
+  },
+  {
+    "Id": 115,
+    "CompanyName": "Bank of America Merrill Lynch"
+  },
+  {
+    "Id": 116,
+    "CompanyName": "Bankers Healthcare Group"
+  },
+  {
+    "Id": 117,
+    "CompanyName": "Barclays"
+  },
+  {
+    "Id": 118,
+    "CompanyName": "Barracuda Networks"
+  },
+  {
+    "Id": 119,
+    "CompanyName": "Bayer"
+  },
+  {
+    "Id": 120,
+    "CompanyName": "Bazaarvoice"
+  },
+  {
+    "Id": 121,
+    "CompanyName": "BCG"
+  },
+  {
+    "Id": 122,
+    "CompanyName": "BCG Digital Ventures"
+  },
+  {
+    "Id": 123,
+    "CompanyName": "Benchling"
+  },
+  {
+    "Id": 124,
+    "CompanyName": "Best Buy"
+  },
+  {
+    "Id": 125,
+    "CompanyName": "Better Mortgage"
+  },
+  {
+    "Id": 126,
+    "CompanyName": "Better.com"
+  },
+  {
+    "Id": 127,
+    "CompanyName": "Betterment"
+  },
+  {
+    "Id": 128,
+    "CompanyName": "beyond limits"
+  },
+  {
+    "Id": 129,
+    "CompanyName": "Bigcommerce"
+  },
+  {
+    "Id": 130,
+    "CompanyName": "Bill.com"
+  },
+  {
+    "Id": 131,
+    "CompanyName": "Bird"
+  },
+  {
+    "Id": 132,
+    "CompanyName": "Blackbaud"
+  },
+  {
+    "Id": 133,
+    "CompanyName": "BlackBerry"
+  },
+  {
+    "Id": 134,
+    "CompanyName": "Blackhawk Network"
+  },
+  {
+    "Id": 135,
+    "CompanyName": "Blackline"
+  },
+  {
+    "Id": 136,
+    "CompanyName": "BlackRock"
+  },
+  {
+    "Id": 137,
+    "CompanyName": "Blackstone"
+  },
+  {
+    "Id": 138,
+    "CompanyName": "Blend"
+  },
+  {
+    "Id": 139,
+    "CompanyName": "Blink Health"
+  },
+  {
+    "Id": 140,
+    "CompanyName": "Blizzard Entertainment"
+  },
+  {
+    "Id": 141,
+    "CompanyName": "BlockFi"
+  },
+  {
+    "Id": 142,
+    "CompanyName": "Bloomberg"
+  },
+  {
+    "Id": 143,
+    "CompanyName": "Bloomberg LP"
+  },
+  {
+    "Id": 144,
+    "CompanyName": "Blue Origin"
+  },
+  {
+    "Id": 145,
+    "CompanyName": "Blue Yonder"
+  },
+  {
+    "Id": 146,
+    "CompanyName": "Bluecore"
+  },
+  {
+    "Id": 147,
+    "CompanyName": "BNP Paribas"
+  },
+  {
+    "Id": 148,
+    "CompanyName": "BNY Mellon"
+  },
+  {
+    "Id": 149,
+    "CompanyName": "Boeing"
+  },
+  {
+    "Id": 150,
+    "CompanyName": "Bolt"
+  },
+  {
+    "Id": 151,
+    "CompanyName": "Bolt (EU)"
+  },
+  {
+    "Id": 152,
+    "CompanyName": "Booking"
+  },
+  {
+    "Id": 153,
+    "CompanyName": "BOOKING.COM"
+  },
+  {
+    "Id": 154,
+    "CompanyName": "Booz Allen Hamilton"
+  },
+  {
+    "Id": 155,
+    "CompanyName": "Bosch"
+  },
+  {
+    "Id": 156,
+    "CompanyName": "Bosch Global"
+  },
+  {
+    "Id": 157,
+    "CompanyName": "Bose"
+  },
+  {
+    "Id": 158,
+    "CompanyName": "Boston Consulting Group"
+  },
+  {
+    "Id": 159,
+    "CompanyName": "Box"
+  },
+  {
+    "Id": 160,
+    "CompanyName": "Brex"
+  },
+  {
+    "Id": 161,
+    "CompanyName": "Bridgewater Associates"
+  },
+  {
+    "Id": 162,
+    "CompanyName": "broadcom"
+  },
+  {
+    "Id": 163,
+    "CompanyName": "BrowserStack"
+  },
+  {
+    "Id": 164,
+    "CompanyName": "Buildium"
+  },
+  {
+    "Id": 165,
+    "CompanyName": "Bukalapak"
+  },
+  {
+    "Id": 166,
+    "CompanyName": "Bumble"
+  },
+  {
+    "Id": 167,
+    "CompanyName": "Button"
+  },
+  {
+    "Id": 168,
+    "CompanyName": "Buzzfeed"
+  },
+  {
+    "Id": 169,
+    "CompanyName": "ByteDance"
+  },
+  {
+    "Id": 170,
+    "CompanyName": "C3.ai"
+  },
+  {
+    "Id": 171,
+    "CompanyName": "CA Technologies"
+  },
+  {
+    "Id": 172,
+    "CompanyName": "Cabify"
+  },
+  {
+    "Id": 173,
+    "CompanyName": "CACI"
+  },
+  {
+    "Id": 174,
+    "CompanyName": "CACI International"
+  },
+  {
+    "Id": 175,
+    "CompanyName": "Cadence"
+  },
+  {
+    "Id": 176,
+    "CompanyName": "Cadence design systems"
+  },
+  {
+    "Id": 177,
+    "CompanyName": "Cambia Health Solutions"
+  },
+  {
+    "Id": 178,
+    "CompanyName": "Canonical"
+  },
+  {
+    "Id": 179,
+    "CompanyName": "canva"
+  },
+  {
+    "Id": 180,
+    "CompanyName": "Capgemini"
+  },
+  {
+    "Id": 181,
+    "CompanyName": "Capital Group"
+  },
+  {
+    "Id": 182,
+    "CompanyName": "Capital One"
+  },
+  {
+    "Id": 183,
+    "CompanyName": "Capsule"
+  },
+  {
+    "Id": 184,
+    "CompanyName": "CapTech"
+  },
+  {
+    "Id": 185,
+    "CompanyName": "Care.com"
+  },
+  {
+    "Id": 186,
+    "CompanyName": "Careem"
+  },
+  {
+    "Id": 187,
+    "CompanyName": "Cargurus"
+  },
+  {
+    "Id": 188,
+    "CompanyName": "Carmax"
+  },
+  {
+    "Id": 189,
+    "CompanyName": "Carrier"
+  },
+  {
+    "Id": 190,
+    "CompanyName": "Carta"
+  },
+  {
+    "Id": 191,
+    "CompanyName": "Carvana"
+  },
+  {
+    "Id": 192,
+    "CompanyName": "CBRE"
+  },
+  {
+    "Id": 193,
+    "CompanyName": "CBS Interactive"
+  },
+  {
+    "Id": 194,
+    "CompanyName": "CDK Global"
+  },
+  {
+    "Id": 195,
+    "CompanyName": "Centene"
+  },
+  {
+    "Id": 196,
+    "CompanyName": "Ceridian"
+  },
+  {
+    "Id": 197,
+    "CompanyName": "Cerner"
+  },
+  {
+    "Id": 198,
+    "CompanyName": "CGI"
+  },
+  {
+    "Id": 199,
+    "CompanyName": "Cgi group"
+  },
+  {
+    "Id": 200,
+    "CompanyName": "Chan Zuckerberg Initiative"
+  },
+  {
+    "Id": 201,
+    "CompanyName": "Change.org"
+  },
+  {
+    "Id": 202,
+    "CompanyName": "Charles Schwab"
+  },
+  {
+    "Id": 203,
+    "CompanyName": "Charter Communications"
+  },
+  {
+    "Id": 204,
+    "CompanyName": "Chase"
+  },
+  {
+    "Id": 205,
+    "CompanyName": "Checkr"
+  },
+  {
+    "Id": 206,
+    "CompanyName": "Chegg"
+  },
+  {
+    "Id": 207,
+    "CompanyName": "Chevron"
+  },
+  {
+    "Id": 208,
+    "CompanyName": "Chewy"
+  },
+  {
+    "Id": 209,
+    "CompanyName": "Chick-fil-A"
+  },
+  {
+    "Id": 210,
+    "CompanyName": "Chime"
+  },
+  {
+    "Id": 211,
+    "CompanyName": "CIBC"
+  },
+  {
+    "Id": 212,
+    "CompanyName": "Ciena"
+  },
+  {
+    "Id": 213,
+    "CompanyName": "Cigna"
+  },
+  {
+    "Id": 214,
+    "CompanyName": "Ciklum"
+  },
+  {
+    "Id": 215,
+    "CompanyName": "Cimpress"
+  },
+  {
+    "Id": 216,
+    "CompanyName": "Circle"
+  },
+  {
+    "Id": 217,
+    "CompanyName": "CircleCI"
+  },
+  {
+    "Id": 218,
+    "CompanyName": "Cirrus Logic"
+  },
+  {
+    "Id": 219,
+    "CompanyName": "Cisco"
+  },
+  {
+    "Id": 220,
+    "CompanyName": "Cisco Meraki"
+  },
+  {
+    "Id": 221,
+    "CompanyName": "Cisco Systems"
+  },
+  {
+    "Id": 222,
+    "CompanyName": "Citadel"
+  },
+  {
+    "Id": 223,
+    "CompanyName": "Citi"
+  },
+  {
+    "Id": 224,
+    "CompanyName": "Citibank"
+  },
+  {
+    "Id": 225,
+    "CompanyName": "Citrix Systems Inc"
+  },
+  {
+    "Id": 226,
+    "CompanyName": "Clari"
+  },
+  {
+    "Id": 227,
+    "CompanyName": "Clear Street"
+  },
+  {
+    "Id": 228,
+    "CompanyName": "Clearbanc"
+  },
+  {
+    "Id": 229,
+    "CompanyName": "Clearwater Analytics"
+  },
+  {
+    "Id": 230,
+    "CompanyName": "Clever"
+  },
+  {
+    "Id": 231,
+    "CompanyName": "Cloudera"
+  },
+  {
+    "Id": 232,
+    "CompanyName": "Cloudflare"
+  },
+  {
+    "Id": 233,
+    "CompanyName": "CloudKitchens"
+  },
+  {
+    "Id": 234,
+    "CompanyName": "Clover Health"
+  },
+  {
+    "Id": 235,
+    "CompanyName": "CME Group"
+  },
+  {
+    "Id": 236,
+    "CompanyName": "Cockroach Labs"
+  },
+  {
+    "Id": 237,
+    "CompanyName": "Codecademy"
+  },
+  {
+    "Id": 238,
+    "CompanyName": "Cognizant"
+  },
+  {
+    "Id": 239,
+    "CompanyName": "Cognizant Technology Solutions"
+  },
+  {
+    "Id": 240,
+    "CompanyName": "Cohesity"
+  },
+  {
+    "Id": 241,
+    "CompanyName": "Coinbase"
+  },
+  {
+    "Id": 242,
+    "CompanyName": "Collective Health"
+  },
+  {
+    "Id": 243,
+    "CompanyName": "Collins Aerospace"
+  },
+  {
+    "Id": 244,
+    "CompanyName": "Comcast"
+  },
+  {
+    "Id": 245,
+    "CompanyName": "Commscope"
+  },
+  {
+    "Id": 246,
+    "CompanyName": "Commvault"
+  },
+  {
+    "Id": 247,
+    "CompanyName": "Compass"
+  },
+  {
+    "Id": 248,
+    "CompanyName": "Comscore"
+  },
+  {
+    "Id": 249,
+    "CompanyName": "Conduent"
+  },
+  {
+    "Id": 250,
+    "CompanyName": "Confluent"
+  },
+  {
+    "Id": 251,
+    "CompanyName": "Constant Contact"
+  },
+  {
+    "Id": 252,
+    "CompanyName": "Contentful"
+  },
+  {
+    "Id": 253,
+    "CompanyName": "Continental"
+  },
+  {
+    "Id": 254,
+    "CompanyName": "Convoy"
+  },
+  {
+    "Id": 255,
+    "CompanyName": "Cornerstone OnDemand"
+  },
+  {
+    "Id": 256,
+    "CompanyName": "Costar Group"
+  },
+  {
+    "Id": 257,
+    "CompanyName": "Costco"
+  },
+  {
+    "Id": 258,
+    "CompanyName": "Costco Wholesale"
+  },
+  {
+    "Id": 259,
+    "CompanyName": "Couchbase"
+  },
+  {
+    "Id": 260,
+    "CompanyName": "Coupa"
+  },
+  {
+    "Id": 261,
+    "CompanyName": "Coupa Software"
+  },
+  {
+    "Id": 262,
+    "CompanyName": "Coupang"
+  },
+  {
+    "Id": 263,
+    "CompanyName": "Course Hero"
+  },
+  {
+    "Id": 264,
+    "CompanyName": "Coursera"
+  },
+  {
+    "Id": 265,
+    "CompanyName": "CoverMyMeds"
+  },
+  {
+    "Id": 266,
+    "CompanyName": "Cox Automotive"
+  },
+  {
+    "Id": 267,
+    "CompanyName": "Cox Enterprises"
+  },
+  {
+    "Id": 268,
+    "CompanyName": "Credit Karma"
+  },
+  {
+    "Id": 269,
+    "CompanyName": "Credit Suisse"
+  },
+  {
+    "Id": 270,
+    "CompanyName": "Criteo"
+  },
+  {
+    "Id": 271,
+    "CompanyName": "CrowdStrike"
+  },
+  {
+    "Id": 272,
+    "CompanyName": "Cruise"
+  },
+  {
+    "Id": 273,
+    "CompanyName": "CSG"
+  },
+  {
+    "Id": 274,
+    "CompanyName": "Cummins"
+  },
+  {
+    "Id": 275,
+    "CompanyName": "Cure.fit"
+  },
+  {
+    "Id": 276,
+    "CompanyName": "Cvent"
+  },
+  {
+    "Id": 277,
+    "CompanyName": "CVS health"
+  },
+  {
+    "Id": 278,
+    "CompanyName": "Cyngn"
+  },
+  {
+    "Id": 279,
+    "CompanyName": "Daimler"
+  },
+  {
+    "Id": 280,
+    "CompanyName": "Danaher"
+  },
+  {
+    "Id": 281,
+    "CompanyName": "Dassault Systemes"
+  },
+  {
+    "Id": 282,
+    "CompanyName": "DataArt"
+  },
+  {
+    "Id": 283,
+    "CompanyName": "Databricks"
+  },
+  {
+    "Id": 284,
+    "CompanyName": "Datadog"
+  },
+  {
+    "Id": 285,
+    "CompanyName": "DataRobot"
+  },
+  {
+    "Id": 286,
+    "CompanyName": "DAZN Group"
+  },
+  {
+    "Id": 287,
+    "CompanyName": "Degreed"
+  },
+  {
+    "Id": 288,
+    "CompanyName": "Deliveroo"
+  },
+  {
+    "Id": 289,
+    "CompanyName": "Deliverr"
+  },
+  {
+    "Id": 290,
+    "CompanyName": "Delivery Hero"
+  },
+  {
+    "Id": 291,
+    "CompanyName": "Dell"
+  },
+  {
+    "Id": 292,
+    "CompanyName": "Dell Technologies"
+  },
+  {
+    "Id": 293,
+    "CompanyName": "Deloitte"
+  },
+  {
+    "Id": 294,
+    "CompanyName": "Deloitte Advisory"
+  },
+  {
+    "Id": 295,
+    "CompanyName": "Deloitte Consulting"
+  },
+  {
+    "Id": 296,
+    "CompanyName": "Deloitte Consulting LLP"
+  },
+  {
+    "Id": 297,
+    "CompanyName": "Delphix"
+  },
+  {
+    "Id": 298,
+    "CompanyName": "Delta Air Lines"
+  },
+  {
+    "Id": 299,
+    "CompanyName": "Deutsche Bank"
+  },
+  {
+    "Id": 300,
+    "CompanyName": "Deutsche Telekom"
+  },
+  {
+    "Id": 301,
+    "CompanyName": "Dexcom"
+  },
+  {
+    "Id": 302,
+    "CompanyName": "Dialpad"
+  },
+  {
+    "Id": 303,
+    "CompanyName": "DiDi"
+  },
+  {
+    "Id": 304,
+    "CompanyName": "DigitalOcean"
+  },
+  {
+    "Id": 305,
+    "CompanyName": "Discord"
+  },
+  {
+    "Id": 306,
+    "CompanyName": "Discover"
+  },
+  {
+    "Id": 307,
+    "CompanyName": "Discover Financial Services"
+  },
+  {
+    "Id": 308,
+    "CompanyName": "discovery"
+  },
+  {
+    "Id": 309,
+    "CompanyName": "Dish"
+  },
+  {
+    "Id": 310,
+    "CompanyName": "Dish Network"
+  },
+  {
+    "Id": 311,
+    "CompanyName": "Disney"
+  },
+  {
+    "Id": 312,
+    "CompanyName": "Disney Streaming Services"
+  },
+  {
+    "Id": 313,
+    "CompanyName": "Docker"
+  },
+  {
+    "Id": 314,
+    "CompanyName": "Doctolib"
+  },
+  {
+    "Id": 315,
+    "CompanyName": "DocuSign"
+  },
+  {
+    "Id": 316,
+    "CompanyName": "Dolby Laboratories"
+  },
+  {
+    "Id": 317,
+    "CompanyName": "Domo"
+  },
+  {
+    "Id": 318,
+    "CompanyName": "DoorDash"
+  },
+  {
+    "Id": 319,
+    "CompanyName": "DoubleVerify"
+  },
+  {
+    "Id": 320,
+    "CompanyName": "Dow Jones"
+  },
+  {
+    "Id": 321,
+    "CompanyName": "Doximity"
+  },
+  {
+    "Id": 322,
+    "CompanyName": "DraftKings"
+  },
+  {
+    "Id": 323,
+    "CompanyName": "Dream11"
+  },
+  {
+    "Id": 324,
+    "CompanyName": "Drift.com"
+  },
+  {
+    "Id": 325,
+    "CompanyName": "Dropbox"
+  },
+  {
+    "Id": 326,
+    "CompanyName": "DRW"
+  },
+  {
+    "Id": 327,
+    "CompanyName": "DTCC"
+  },
+  {
+    "Id": 328,
+    "CompanyName": "Duolingo"
+  },
+  {
+    "Id": 329,
+    "CompanyName": "DXC Technology"
+  },
+  {
+    "Id": 330,
+    "CompanyName": "Dynatrace"
+  },
+  {
+    "Id": 331,
+    "CompanyName": "E*Trade"
+  },
+  {
+    "Id": 332,
+    "CompanyName": "Earnest"
+  },
+  {
+    "Id": 333,
+    "CompanyName": "eBay"
+  },
+  {
+    "Id": 334,
+    "CompanyName": "Edwards Lifesciences"
+  },
+  {
+    "Id": 335,
+    "CompanyName": "edX"
+  },
+  {
+    "Id": 336,
+    "CompanyName": "Egen Solutions"
+  },
+  {
+    "Id": 337,
+    "CompanyName": "Elastic"
+  },
+  {
+    "Id": 338,
+    "CompanyName": "Electronic Arts"
+  },
+  {
+    "Id": 339,
+    "CompanyName": "Ellie Mae"
+  },
+  {
+    "Id": 340,
+    "CompanyName": "Elsevier"
+  },
+  {
+    "Id": 341,
+    "CompanyName": "Endava"
+  },
+  {
+    "Id": 342,
+    "CompanyName": "Enova International"
+  },
+  {
+    "Id": 343,
+    "CompanyName": "EPAM"
+  },
+  {
+    "Id": 344,
+    "CompanyName": "EPAM Systems"
+  },
+  {
+    "Id": 345,
+    "CompanyName": "Epic Games"
+  },
+  {
+    "Id": 346,
+    "CompanyName": "Epic Systems"
+  },
+  {
+    "Id": 347,
+    "CompanyName": "epsilon"
+  },
+  {
+    "Id": 348,
+    "CompanyName": "Equifax"
+  },
+  {
+    "Id": 349,
+    "CompanyName": "Equinix"
+  },
+  {
+    "Id": 350,
+    "CompanyName": "EquipmentShare"
+  },
+  {
+    "Id": 351,
+    "CompanyName": "Ericsson"
+  },
+  {
+    "Id": 352,
+    "CompanyName": "Ernst & Young"
+  },
+  {
+    "Id": 353,
+    "CompanyName": "Ernst and young"
+  },
+  {
+    "Id": 354,
+    "CompanyName": "Esri"
+  },
+  {
+    "Id": 355,
+    "CompanyName": "Etsy"
+  },
+  {
+    "Id": 356,
+    "CompanyName": "Eventbrite"
+  },
+  {
+    "Id": 357,
+    "CompanyName": "Evernote"
+  },
+  {
+    "Id": 358,
+    "CompanyName": "Everquote"
+  },
+  {
+    "Id": 359,
+    "CompanyName": "Excella"
+  },
+  {
+    "Id": 360,
+    "CompanyName": "Expedia"
+  },
+  {
+    "Id": 361,
+    "CompanyName": "Expedia Group"
+  },
+  {
+    "Id": 362,
+    "CompanyName": "Experian"
+  },
+  {
+    "Id": 363,
+    "CompanyName": "ExxonMobil"
+  },
+  {
+    "Id": 364,
+    "CompanyName": "EY"
+  },
+  {
+    "Id": 365,
+    "CompanyName": "EY-parthenon"
+  },
+  {
+    "Id": 366,
+    "CompanyName": "F5 networks"
+  },
+  {
+    "Id": 367,
+    "CompanyName": "Facebook"
+  },
+  {
+    "Id": 368,
+    "CompanyName": "FactSet"
+  },
+  {
+    "Id": 369,
+    "CompanyName": "Faire"
+  },
+  {
+    "Id": 370,
+    "CompanyName": "Fanatics"
+  },
+  {
+    "Id": 371,
+    "CompanyName": "FanDuel"
+  },
+  {
+    "Id": 372,
+    "CompanyName": "Fannie Mae"
+  },
+  {
+    "Id": 373,
+    "CompanyName": "Farfetch"
+  },
+  {
+    "Id": 374,
+    "CompanyName": "Fast Enterprises"
+  },
+  {
+    "Id": 375,
+    "CompanyName": "fastly"
+  },
+  {
+    "Id": 376,
+    "CompanyName": "Fedex"
+  },
+  {
+    "Id": 377,
+    "CompanyName": "Feedzai"
+  },
+  {
+    "Id": 378,
+    "CompanyName": "Fetch Rewards"
+  },
+  {
+    "Id": 379,
+    "CompanyName": "FICO"
+  },
+  {
+    "Id": 380,
+    "CompanyName": "Fidelity Investments"
+  },
+  {
+    "Id": 381,
+    "CompanyName": "Fifth Third Bank"
+  },
+  {
+    "Id": 382,
+    "CompanyName": "Figma"
+  },
+  {
+    "Id": 383,
+    "CompanyName": "Fireeye"
+  },
+  {
+    "Id": 384,
+    "CompanyName": "First Republic bank"
+  },
+  {
+    "Id": 385,
+    "CompanyName": "Fis"
+  },
+  {
+    "Id": 386,
+    "CompanyName": "Fiserv"
+  },
+  {
+    "Id": 387,
+    "CompanyName": "Fitbit"
+  },
+  {
+    "Id": 388,
+    "CompanyName": "Five Rings"
+  },
+  {
+    "Id": 389,
+    "CompanyName": "Flatiron Health"
+  },
+  {
+    "Id": 390,
+    "CompanyName": "FLEXE"
+  },
+  {
+    "Id": 391,
+    "CompanyName": "Flexport"
+  },
+  {
+    "Id": 392,
+    "CompanyName": "Flipkart"
+  },
+  {
+    "Id": 393,
+    "CompanyName": "Ford"
+  },
+  {
+    "Id": 394,
+    "CompanyName": "Ford Motor"
+  },
+  {
+    "Id": 395,
+    "CompanyName": "Ford Motor Company"
+  },
+  {
+    "Id": 396,
+    "CompanyName": "Fortinet"
+  },
+  {
+    "Id": 397,
+    "CompanyName": "Foursquare"
+  },
+  {
+    "Id": 398,
+    "CompanyName": "Fractal Analytics"
+  },
+  {
+    "Id": 399,
+    "CompanyName": "Freddie Mac"
+  },
+  {
+    "Id": 400,
+    "CompanyName": "Freshworks"
+  },
+  {
+    "Id": 401,
+    "CompanyName": "FTI Consulting"
+  },
+  {
+    "Id": 402,
+    "CompanyName": "fuboTV"
+  },
+  {
+    "Id": 403,
+    "CompanyName": "Fujitsu"
+  },
+  {
+    "Id": 404,
+    "CompanyName": "FullStory"
+  },
+  {
+    "Id": 405,
+    "CompanyName": "Gap"
+  },
+  {
+    "Id": 406,
+    "CompanyName": "Garmin"
+  },
+  {
+    "Id": 407,
+    "CompanyName": "Gartner"
+  },
+  {
+    "Id": 408,
+    "CompanyName": "GE"
+  },
+  {
+    "Id": 409,
+    "CompanyName": "Ge aviation"
+  },
+  {
+    "Id": 410,
+    "CompanyName": "GE Digital"
+  },
+  {
+    "Id": 411,
+    "CompanyName": "GE Healthcare"
+  },
+  {
+    "Id": 412,
+    "CompanyName": "Geico"
+  },
+  {
+    "Id": 413,
+    "CompanyName": "Gemini"
+  },
+  {
+    "Id": 414,
+    "CompanyName": "Genentech"
+  },
+  {
+    "Id": 415,
+    "CompanyName": "General Atomics"
+  },
+  {
+    "Id": 416,
+    "CompanyName": "General Dynamics Information Technology"
+  },
+  {
+    "Id": 417,
+    "CompanyName": "General Dynamics Mission Systems"
+  },
+  {
+    "Id": 418,
+    "CompanyName": "General Electric"
+  },
+  {
+    "Id": 419,
+    "CompanyName": "General mills"
+  },
+  {
+    "Id": 420,
+    "CompanyName": "General Motors"
+  },
+  {
+    "Id": 421,
+    "CompanyName": "Genesys"
+  },
+  {
+    "Id": 422,
+    "CompanyName": "Genpact"
+  },
+  {
+    "Id": 423,
+    "CompanyName": "Gigamon"
+  },
+  {
+    "Id": 424,
+    "CompanyName": "GitHub"
+  },
+  {
+    "Id": 425,
+    "CompanyName": "GitLab"
+  },
+  {
+    "Id": 426,
+    "CompanyName": "Glassdoor"
+  },
+  {
+    "Id": 427,
+    "CompanyName": "Global Payments"
+  },
+  {
+    "Id": 428,
+    "CompanyName": "globalfoundries"
+  },
+  {
+    "Id": 429,
+    "CompanyName": "Globallogic"
+  },
+  {
+    "Id": 430,
+    "CompanyName": "Globant"
+  },
+  {
+    "Id": 431,
+    "CompanyName": "Glovo"
+  },
+  {
+    "Id": 432,
+    "CompanyName": "Glu Mobile"
+  },
+  {
+    "Id": 433,
+    "CompanyName": "GoCardless"
+  },
+  {
+    "Id": 434,
+    "CompanyName": "GoDaddy"
+  },
+  {
+    "Id": 435,
+    "CompanyName": "Gojek"
+  },
+  {
+    "Id": 436,
+    "CompanyName": "Gojek Tech"
+  },
+  {
+    "Id": 437,
+    "CompanyName": "Goldman Sachs"
+  },
+  {
+    "Id": 438,
+    "CompanyName": "Google"
+  },
+  {
+    "Id": 439,
+    "CompanyName": "google llc"
+  },
+  {
+    "Id": 440,
+    "CompanyName": "goPuff"
+  },
+  {
+    "Id": 441,
+    "CompanyName": "Grab"
+  },
+  {
+    "Id": 442,
+    "CompanyName": "Grammarly"
+  },
+  {
+    "Id": 443,
+    "CompanyName": "Granular"
+  },
+  {
+    "Id": 444,
+    "CompanyName": "G-Research"
+  },
+  {
+    "Id": 445,
+    "CompanyName": "Grid Dynamics"
+  },
+  {
+    "Id": 446,
+    "CompanyName": "Grofers"
+  },
+  {
+    "Id": 447,
+    "CompanyName": "Groupon"
+  },
+  {
+    "Id": 448,
+    "CompanyName": "GrubHub"
+  },
+  {
+    "Id": 449,
+    "CompanyName": "GSK"
+  },
+  {
+    "Id": 450,
+    "CompanyName": "Guardant health"
+  },
+  {
+    "Id": 451,
+    "CompanyName": "Guidehouse"
+  },
+  {
+    "Id": 452,
+    "CompanyName": "Guidewire"
+  },
+  {
+    "Id": 453,
+    "CompanyName": "Guidewire Software"
+  },
+  {
+    "Id": 454,
+    "CompanyName": "Gusto"
+  },
+  {
+    "Id": 455,
+    "CompanyName": "HackerRank"
+  },
+  {
+    "Id": 456,
+    "CompanyName": "Hashicorp"
+  },
+  {
+    "Id": 457,
+    "CompanyName": "HBO"
+  },
+  {
+    "Id": 458,
+    "CompanyName": "HCA Healthcare"
+  },
+  {
+    "Id": 459,
+    "CompanyName": "HCL Technologies"
+  },
+  {
+    "Id": 460,
+    "CompanyName": "Headspace"
+  },
+  {
+    "Id": 461,
+    "CompanyName": "H-E-B"
+  },
+  {
+    "Id": 462,
+    "CompanyName": "HelloFresh"
+  },
+  {
+    "Id": 463,
+    "CompanyName": "Here"
+  },
+  {
+    "Id": 464,
+    "CompanyName": "HERE Technologies"
+  },
+  {
+    "Id": 465,
+    "CompanyName": "Hewlett Packard Enterprise"
+  },
+  {
+    "Id": 466,
+    "CompanyName": "Hitachi"
+  },
+  {
+    "Id": 467,
+    "CompanyName": "homeadvisor"
+  },
+  {
+    "Id": 468,
+    "CompanyName": "Homeaway"
+  },
+  {
+    "Id": 469,
+    "CompanyName": "Honeywell"
+  },
+  {
+    "Id": 470,
+    "CompanyName": "Hootsuite"
+  },
+  {
+    "Id": 471,
+    "CompanyName": "Hopper"
+  },
+  {
+    "Id": 472,
+    "CompanyName": "houzz"
+  },
+  {
+    "Id": 473,
+    "CompanyName": "HP"
+  },
+  {
+    "Id": 474,
+    "CompanyName": "HP Inc"
+  },
+  {
+    "Id": 475,
+    "CompanyName": "HPE"
+  },
+  {
+    "Id": 476,
+    "CompanyName": "Hsbc"
+  },
+  {
+    "Id": 477,
+    "CompanyName": "Huawei"
+  },
+  {
+    "Id": 478,
+    "CompanyName": "Hubspot"
+  },
+  {
+    "Id": 479,
+    "CompanyName": "Hudson River Trading"
+  },
+  {
+    "Id": 480,
+    "CompanyName": "Hulu"
+  },
+  {
+    "Id": 481,
+    "CompanyName": "Humana"
+  },
+  {
+    "Id": 482,
+    "CompanyName": "Hyperscience"
+  },
+  {
+    "Id": 483,
+    "CompanyName": "IBM"
+  },
+  {
+    "Id": 484,
+    "CompanyName": "Ibotta"
+  },
+  {
+    "Id": 485,
+    "CompanyName": "ICF"
+  },
+  {
+    "Id": 486,
+    "CompanyName": "Icims"
+  },
+  {
+    "Id": 487,
+    "CompanyName": "idemia"
+  },
+  {
+    "Id": 488,
+    "CompanyName": "IGT"
+  },
+  {
+    "Id": 489,
+    "CompanyName": "iHeartRadio"
+  },
+  {
+    "Id": 490,
+    "CompanyName": "iHerb"
+  },
+  {
+    "Id": 491,
+    "CompanyName": "IHS Markit"
+  },
+  {
+    "Id": 492,
+    "CompanyName": "illumina"
+  },
+  {
+    "Id": 493,
+    "CompanyName": "Illumio"
+  },
+  {
+    "Id": 494,
+    "CompanyName": "iManage"
+  },
+  {
+    "Id": 495,
+    "CompanyName": "IMC"
+  },
+  {
+    "Id": 496,
+    "CompanyName": "Improbable"
+  },
+  {
+    "Id": 497,
+    "CompanyName": "Indeed"
+  },
+  {
+    "Id": 498,
+    "CompanyName": "Indigo"
+  },
+  {
+    "Id": 499,
+    "CompanyName": "infinera"
+  },
+  {
+    "Id": 500,
+    "CompanyName": "Infoblox"
+  },
+  {
+    "Id": 501,
+    "CompanyName": "Infor"
+  },
+  {
+    "Id": 502,
+    "CompanyName": "Informatica"
+  },
+  {
+    "Id": 503,
+    "CompanyName": "Infosys"
+  },
+  {
+    "Id": 504,
+    "CompanyName": "Infosys Ltd"
+  },
+  {
+    "Id": 505,
+    "CompanyName": "ING"
+  },
+  {
+    "Id": 506,
+    "CompanyName": "InMobi"
+  },
+  {
+    "Id": 507,
+    "CompanyName": "Instabase"
+  },
+  {
+    "Id": 508,
+    "CompanyName": "Instacart"
+  },
+  {
+    "Id": 509,
+    "CompanyName": "Integral Ad Science"
+  },
+  {
+    "Id": 510,
+    "CompanyName": "Intel"
+  },
+  {
+    "Id": 511,
+    "CompanyName": "Intel Corporation"
+  },
+  {
+    "Id": 512,
+    "CompanyName": "Interactive Brokers"
+  },
+  {
+    "Id": 513,
+    "CompanyName": "Intercom"
+  },
+  {
+    "Id": 514,
+    "CompanyName": "Intercontinental Exchange"
+  },
+  {
+    "Id": 515,
+    "CompanyName": "Internet Brands"
+  },
+  {
+    "Id": 516,
+    "CompanyName": "Intersystems"
+  },
+  {
+    "Id": 517,
+    "CompanyName": "Intuit"
+  },
+  {
+    "Id": 518,
+    "CompanyName": "Intuitive"
+  },
+  {
+    "Id": 519,
+    "CompanyName": "Intuitive Surgical"
+  },
+  {
+    "Id": 520,
+    "CompanyName": "investcloud"
+  },
+  {
+    "Id": 521,
+    "CompanyName": "InVision"
+  },
+  {
+    "Id": 522,
+    "CompanyName": "IQVIA"
+  },
+  {
+    "Id": 523,
+    "CompanyName": "Irobot"
+  },
+  {
+    "Id": 524,
+    "CompanyName": "Ironclad"
+  },
+  {
+    "Id": 525,
+    "CompanyName": "Iterable"
+  },
+  {
+    "Id": 526,
+    "CompanyName": "Ivanti"
+  },
+  {
+    "Id": 527,
+    "CompanyName": "ixl learning"
+  },
+  {
+    "Id": 528,
+    "CompanyName": "Jane Street"
+  },
+  {
+    "Id": 529,
+    "CompanyName": "Jane Street Capital"
+  },
+  {
+    "Id": 530,
+    "CompanyName": "JCPenney"
+  },
+  {
+    "Id": 531,
+    "CompanyName": "Jet Propulsion Laboratory"
+  },
+  {
+    "Id": 532,
+    "CompanyName": "Jio"
+  },
+  {
+    "Id": 533,
+    "CompanyName": "John Deere"
+  },
+  {
+    "Id": 534,
+    "CompanyName": "John Hancock"
+  },
+  {
+    "Id": 535,
+    "CompanyName": "Johnson"
+  },
+  {
+    "Id": 536,
+    "CompanyName": "Johnson & Johnson"
+  },
+  {
+    "Id": 537,
+    "CompanyName": "Johnson and Johnson"
+  },
+  {
+    "Id": 538,
+    "CompanyName": "Johnson Controls"
+  },
+  {
+    "Id": 539,
+    "CompanyName": "JP morgan"
+  },
+  {
+    "Id": 540,
+    "CompanyName": "JP Morgan Chase"
+  },
+  {
+    "Id": 541,
+    "CompanyName": "JPMorgan"
+  },
+  {
+    "Id": 542,
+    "CompanyName": "JPMorgan Chase"
+  },
+  {
+    "Id": 543,
+    "CompanyName": "Jump Trading"
+  },
+  {
+    "Id": 544,
+    "CompanyName": "Juniper"
+  },
+  {
+    "Id": 545,
+    "CompanyName": "Juniper Networks"
+  },
+  {
+    "Id": 546,
+    "CompanyName": "Juniper Square"
+  },
+  {
+    "Id": 547,
+    "CompanyName": "Just Eat"
+  },
+  {
+    "Id": 548,
+    "CompanyName": "Juul Labs"
+  },
+  {
+    "Id": 549,
+    "CompanyName": "Kaiser Permanente"
+  },
+  {
+    "Id": 550,
+    "CompanyName": "Kajabi"
+  },
+  {
+    "Id": 551,
+    "CompanyName": "KAYAK"
+  },
+  {
+    "Id": 552,
+    "CompanyName": "Keeptruckin"
+  },
+  {
+    "Id": 553,
+    "CompanyName": "Keysight"
+  },
+  {
+    "Id": 554,
+    "CompanyName": "Khoros"
+  },
+  {
+    "Id": 555,
+    "CompanyName": "KLA"
+  },
+  {
+    "Id": 556,
+    "CompanyName": "Klarna"
+  },
+  {
+    "Id": 557,
+    "CompanyName": "Klaviyo"
+  },
+  {
+    "Id": 558,
+    "CompanyName": "Kohl's"
+  },
+  {
+    "Id": 559,
+    "CompanyName": "Korn Ferry"
+  },
+  {
+    "Id": 560,
+    "CompanyName": "KPIT"
+  },
+  {
+    "Id": 561,
+    "CompanyName": "KPMG"
+  },
+  {
+    "Id": 562,
+    "CompanyName": "Kraken"
+  },
+  {
+    "Id": 563,
+    "CompanyName": "Kroger"
+  },
+  {
+    "Id": 564,
+    "CompanyName": "L3Harris"
+  },
+  {
+    "Id": 565,
+    "CompanyName": "L3Harris Technologies"
+  },
+  {
+    "Id": 566,
+    "CompanyName": "Lam Research"
+  },
+  {
+    "Id": 567,
+    "CompanyName": "Latch"
+  },
+  {
+    "Id": 568,
+    "CompanyName": "League"
+  },
+  {
+    "Id": 569,
+    "CompanyName": "LeanTaaS"
+  },
+  {
+    "Id": 570,
+    "CompanyName": "Leidos"
+  },
+  {
+    "Id": 571,
+    "CompanyName": "LEK"
+  },
+  {
+    "Id": 572,
+    "CompanyName": "LendingClub"
+  },
+  {
+    "Id": 573,
+    "CompanyName": "LendingTree"
+  },
+  {
+    "Id": 574,
+    "CompanyName": "Lenovo"
+  },
+  {
+    "Id": 575,
+    "CompanyName": "Liberty Mutual"
+  },
+  {
+    "Id": 576,
+    "CompanyName": "Liberty Mutual Insurance"
+  },
+  {
+    "Id": 577,
+    "CompanyName": "Linkedin"
+  },
+  {
+    "Id": 578,
+    "CompanyName": "LivePerson"
+  },
+  {
+    "Id": 579,
+    "CompanyName": "LiveRamp"
+  },
+  {
+    "Id": 580,
+    "CompanyName": "loanDepot"
+  },
+  {
+    "Id": 581,
+    "CompanyName": "Loblaw Digital"
+  },
+  {
+    "Id": 582,
+    "CompanyName": "Lockheed Martin"
+  },
+  {
+    "Id": 583,
+    "CompanyName": "Logitech"
+  },
+  {
+    "Id": 584,
+    "CompanyName": "LogMeIn"
+  },
+  {
+    "Id": 585,
+    "CompanyName": "Loom"
+  },
+  {
+    "Id": 586,
+    "CompanyName": "Lowes"
+  },
+  {
+    "Id": 587,
+    "CompanyName": "Lowe's"
+  },
+  {
+    "Id": 588,
+    "CompanyName": "LTI"
+  },
+  {
+    "Id": 589,
+    "CompanyName": "Lucid Motors"
+  },
+  {
+    "Id": 590,
+    "CompanyName": "Lucid Software"
+  },
+  {
+    "Id": 591,
+    "CompanyName": "Lumen"
+  },
+  {
+    "Id": 592,
+    "CompanyName": "Lumentum"
+  },
+  {
+    "Id": 593,
+    "CompanyName": "Luxoft"
+  },
+  {
+    "Id": 594,
+    "CompanyName": "Lyft"
+  },
+  {
+    "Id": 595,
+    "CompanyName": "Macy's"
+  },
+  {
+    "Id": 596,
+    "CompanyName": "Macy's,"
+  },
+  {
+    "Id": 597,
+    "CompanyName": "Magic Leap"
+  },
+  {
+    "Id": 598,
+    "CompanyName": "Mail.Ru Group"
+  },
+  {
+    "Id": 599,
+    "CompanyName": "Mailchimp"
+  },
+  {
+    "Id": 600,
+    "CompanyName": "Makemytrip"
+  },
+  {
+    "Id": 601,
+    "CompanyName": "Manhattan Associates"
+  },
+  {
+    "Id": 602,
+    "CompanyName": "ManTech International"
+  },
+  {
+    "Id": 603,
+    "CompanyName": "Manulife"
+  },
+  {
+    "Id": 604,
+    "CompanyName": "mapbox"
+  },
+  {
+    "Id": 605,
+    "CompanyName": "MarketAxess"
+  },
+  {
+    "Id": 606,
+    "CompanyName": "Marqeta"
+  },
+  {
+    "Id": 607,
+    "CompanyName": "Marvell"
+  },
+  {
+    "Id": 608,
+    "CompanyName": "MassMutual"
+  },
+  {
+    "Id": 609,
+    "CompanyName": "MasterCard"
+  },
+  {
+    "Id": 610,
+    "CompanyName": "Match"
+  },
+  {
+    "Id": 611,
+    "CompanyName": "Mathworks"
+  },
+  {
+    "Id": 612,
+    "CompanyName": "Maxar Technologies"
+  },
+  {
+    "Id": 613,
+    "CompanyName": "Maxim Integrated"
+  },
+  {
+    "Id": 614,
+    "CompanyName": "McAfee"
+  },
+  {
+    "Id": 615,
+    "CompanyName": "McDonald's"
+  },
+  {
+    "Id": 616,
+    "CompanyName": "McKesson"
+  },
+  {
+    "Id": 617,
+    "CompanyName": "McKinsey"
+  },
+  {
+    "Id": 618,
+    "CompanyName": "Mckinsey & Company"
+  },
+  {
+    "Id": 619,
+    "CompanyName": "Medallia"
+  },
+  {
+    "Id": 620,
+    "CompanyName": "media.net"
+  },
+  {
+    "Id": 621,
+    "CompanyName": "Mediaocean"
+  },
+  {
+    "Id": 622,
+    "CompanyName": "Mediatek"
+  },
+  {
+    "Id": 623,
+    "CompanyName": "Medium"
+  },
+  {
+    "Id": 624,
+    "CompanyName": "Medtronic"
+  },
+  {
+    "Id": 625,
+    "CompanyName": "Meesho"
+  },
+  {
+    "Id": 626,
+    "CompanyName": "Meijer"
+  },
+  {
+    "Id": 627,
+    "CompanyName": "Mellanox"
+  },
+  {
+    "Id": 628,
+    "CompanyName": "Mendix"
+  },
+  {
+    "Id": 629,
+    "CompanyName": "Mentor Graphics"
+  },
+  {
+    "Id": 630,
+    "CompanyName": "Mercer"
+  },
+  {
+    "Id": 631,
+    "CompanyName": "Merck"
+  },
+  {
+    "Id": 632,
+    "CompanyName": "Messagebird"
+  },
+  {
+    "Id": 633,
+    "CompanyName": "metlife"
+  },
+  {
+    "Id": 634,
+    "CompanyName": "Metromile"
+  },
+  {
+    "Id": 635,
+    "CompanyName": "Mi"
+  },
+  {
+    "Id": 636,
+    "CompanyName": "Mic"
+  },
+  {
+    "Id": 637,
+    "CompanyName": "Micro Focus"
+  },
+  {
+    "Id": 638,
+    "CompanyName": "Microchip"
+  },
+  {
+    "Id": 639,
+    "CompanyName": "Microchip Technology"
+  },
+  {
+    "Id": 640,
+    "CompanyName": "Micron"
+  },
+  {
+    "Id": 641,
+    "CompanyName": "Micron Technology"
+  },
+  {
+    "Id": 642,
+    "CompanyName": "Microsoft"
+  },
+  {
+    "Id": 643,
+    "CompanyName": "Microsoft Corporation"
+  },
+  {
+    "Id": 644,
+    "CompanyName": "microstrategy"
+  },
+  {
+    "Id": 645,
+    "CompanyName": "Mindtree"
+  },
+  {
+    "Id": 646,
+    "CompanyName": "Mitchell International"
+  },
+  {
+    "Id": 647,
+    "CompanyName": "Mitre"
+  },
+  {
+    "Id": 648,
+    "CompanyName": "Mixpanel"
+  },
+  {
+    "Id": 649,
+    "CompanyName": "MobileIron"
+  },
+  {
+    "Id": 650,
+    "CompanyName": "MongoDB"
+  },
+  {
+    "Id": 651,
+    "CompanyName": "Monzo"
+  },
+  {
+    "Id": 652,
+    "CompanyName": "Moody's"
+  },
+  {
+    "Id": 653,
+    "CompanyName": "Moody's Analytics"
+  },
+  {
+    "Id": 654,
+    "CompanyName": "Morgan Stanley"
+  },
+  {
+    "Id": 655,
+    "CompanyName": "Morningstar"
+  },
+  {
+    "Id": 656,
+    "CompanyName": "Motional"
+  },
+  {
+    "Id": 657,
+    "CompanyName": "Motorola"
+  },
+  {
+    "Id": 658,
+    "CompanyName": "Motorola Solutions"
+  },
+  {
+    "Id": 659,
+    "CompanyName": "Move"
+  },
+  {
+    "Id": 660,
+    "CompanyName": "Moveworks"
+  },
+  {
+    "Id": 661,
+    "CompanyName": "Mozilla"
+  },
+  {
+    "Id": 662,
+    "CompanyName": "Mphasis"
+  },
+  {
+    "Id": 663,
+    "CompanyName": "MSFT"
+  },
+  {
+    "Id": 664,
+    "CompanyName": "MUFG"
+  },
+  {
+    "Id": 665,
+    "CompanyName": "MURAL"
+  },
+  {
+    "Id": 666,
+    "CompanyName": "Mutual of Omaha"
+  },
+  {
+    "Id": 667,
+    "CompanyName": "Myntra"
+  },
+  {
+    "Id": 668,
+    "CompanyName": "N/A"
+  },
+  {
+    "Id": 669,
+    "CompanyName": "N26"
+  },
+  {
+    "Id": 670,
+    "CompanyName": "NASA JPL"
+  },
+  {
+    "Id": 671,
+    "CompanyName": "NASDAQ"
+  },
+  {
+    "Id": 672,
+    "CompanyName": "Natera"
+  },
+  {
+    "Id": 673,
+    "CompanyName": "National Instruments"
+  },
+  {
+    "Id": 674,
+    "CompanyName": "NBCUniversal"
+  },
+  {
+    "Id": 675,
+    "CompanyName": "NCR"
+  },
+  {
+    "Id": 676,
+    "CompanyName": "NerdWallet"
+  },
+  {
+    "Id": 677,
+    "CompanyName": "NetApp"
+  },
+  {
+    "Id": 678,
+    "CompanyName": "Netflix"
+  },
+  {
+    "Id": 679,
+    "CompanyName": "Netskope"
+  },
+  {
+    "Id": 680,
+    "CompanyName": "Neustar"
+  },
+  {
+    "Id": 681,
+    "CompanyName": "New Relic"
+  },
+  {
+    "Id": 682,
+    "CompanyName": "Nextdoor"
+  },
+  {
+    "Id": 683,
+    "CompanyName": "NextEra Analytics"
+  },
+  {
+    "Id": 684,
+    "CompanyName": "Niantic"
+  },
+  {
+    "Id": 685,
+    "CompanyName": "NICE"
+  },
+  {
+    "Id": 686,
+    "CompanyName": "Nielsen"
+  },
+  {
+    "Id": 687,
+    "CompanyName": "Nike"
+  },
+  {
+    "Id": 688,
+    "CompanyName": "Nintendo"
+  },
+  {
+    "Id": 689,
+    "CompanyName": "NIO"
+  },
+  {
+    "Id": 690,
+    "CompanyName": "Nokia"
+  },
+  {
+    "Id": 691,
+    "CompanyName": "Nordstrom"
+  },
+  {
+    "Id": 692,
+    "CompanyName": "Northrop Grumman"
+  },
+  {
+    "Id": 693,
+    "CompanyName": "Northwestern Mutual"
+  },
+  {
+    "Id": 694,
+    "CompanyName": "NortonLifeLock"
+  },
+  {
+    "Id": 695,
+    "CompanyName": "Novetta"
+  },
+  {
+    "Id": 696,
+    "CompanyName": "NTT Data"
+  },
+  {
+    "Id": 697,
+    "CompanyName": "Nuance"
+  },
+  {
+    "Id": 698,
+    "CompanyName": "Nuance Communications"
+  },
+  {
+    "Id": 699,
+    "CompanyName": "Nubank"
+  },
+  {
+    "Id": 700,
+    "CompanyName": "Numerator"
+  },
+  {
+    "Id": 701,
+    "CompanyName": "Nuro"
+  },
+  {
+    "Id": 702,
+    "CompanyName": "Nutanix"
+  },
+  {
+    "Id": 703,
+    "CompanyName": "Nvidia"
+  },
+  {
+    "Id": 704,
+    "CompanyName": "NXP"
+  },
+  {
+    "Id": 705,
+    "CompanyName": "nxp semiconductors"
+  },
+  {
+    "Id": 706,
+    "CompanyName": "Nylas"
+  },
+  {
+    "Id": 707,
+    "CompanyName": "Oath"
+  },
+  {
+    "Id": 708,
+    "CompanyName": "Ocado Technology"
+  },
+  {
+    "Id": 709,
+    "CompanyName": "OfferUp"
+  },
+  {
+    "Id": 710,
+    "CompanyName": "Office Depot"
+  },
+  {
+    "Id": 711,
+    "CompanyName": "Okta"
+  },
+  {
+    "Id": 712,
+    "CompanyName": "Ola"
+  },
+  {
+    "Id": 713,
+    "CompanyName": "Oliver Wyman"
+  },
+  {
+    "Id": 714,
+    "CompanyName": "Olo"
+  },
+  {
+    "Id": 715,
+    "CompanyName": "On Semiconductor"
+  },
+  {
+    "Id": 716,
+    "CompanyName": "One Medical"
+  },
+  {
+    "Id": 717,
+    "CompanyName": "OneTrust"
+  },
+  {
+    "Id": 718,
+    "CompanyName": "Opendoor"
+  },
+  {
+    "Id": 719,
+    "CompanyName": "OpenTable"
+  },
+  {
+    "Id": 720,
+    "CompanyName": "OpenText"
+  },
+  {
+    "Id": 721,
+    "CompanyName": "OPPO"
+  },
+  {
+    "Id": 722,
+    "CompanyName": "Optimizely"
+  },
+  {
+    "Id": 723,
+    "CompanyName": "Optiver"
+  },
+  {
+    "Id": 724,
+    "CompanyName": "Optum"
+  },
+  {
+    "Id": 725,
+    "CompanyName": "Oracle"
+  },
+  {
+    "Id": 726,
+    "CompanyName": "Oscar"
+  },
+  {
+    "Id": 727,
+    "CompanyName": "Oscar Health"
+  },
+  {
+    "Id": 728,
+    "CompanyName": "Other"
+  },
+  {
+    "Id": 729,
+    "CompanyName": "Overstock"
+  },
+  {
+    "Id": 730,
+    "CompanyName": "OYO"
+  },
+  {
+    "Id": 731,
+    "CompanyName": "pagerduty"
+  },
+  {
+    "Id": 732,
+    "CompanyName": "Palantir"
+  },
+  {
+    "Id": 733,
+    "CompanyName": "Palo Alto Networks"
+  },
+  {
+    "Id": 734,
+    "CompanyName": "Panasonic"
+  },
+  {
+    "Id": 735,
+    "CompanyName": "Panasonic Avionics"
+  },
+  {
+    "Id": 736,
+    "CompanyName": "Pandora"
+  },
+  {
+    "Id": 737,
+    "CompanyName": "Pariveda Solutions"
+  },
+  {
+    "Id": 738,
+    "CompanyName": "Parsons"
+  },
+  {
+    "Id": 739,
+    "CompanyName": "Patreon"
+  },
+  {
+    "Id": 740,
+    "CompanyName": "Paycom"
+  },
+  {
+    "Id": 741,
+    "CompanyName": "Paylocity"
+  },
+  {
+    "Id": 742,
+    "CompanyName": "PayPal"
+  },
+  {
+    "Id": 743,
+    "CompanyName": "PayTm"
+  },
+  {
+    "Id": 744,
+    "CompanyName": "PDT Partners"
+  },
+  {
+    "Id": 745,
+    "CompanyName": "Pearson"
+  },
+  {
+    "Id": 746,
+    "CompanyName": "Pegasystems"
+  },
+  {
+    "Id": 747,
+    "CompanyName": "Pegatron"
+  },
+  {
+    "Id": 748,
+    "CompanyName": "Peloton"
+  },
+  {
+    "Id": 749,
+    "CompanyName": "PepsiCo"
+  },
+  {
+    "Id": 750,
+    "CompanyName": "Perficient"
+  },
+  {
+    "Id": 751,
+    "CompanyName": "Perspecta"
+  },
+  {
+    "Id": 752,
+    "CompanyName": "Petuum"
+  },
+  {
+    "Id": 753,
+    "CompanyName": "philips"
+  },
+  {
+    "Id": 754,
+    "CompanyName": "PhonePe"
+  },
+  {
+    "Id": 755,
+    "CompanyName": "Ping Identity"
+  },
+  {
+    "Id": 756,
+    "CompanyName": "Pinterest"
+  },
+  {
+    "Id": 757,
+    "CompanyName": "Pivotal"
+  },
+  {
+    "Id": 758,
+    "CompanyName": "Plaid"
+  },
+  {
+    "Id": 759,
+    "CompanyName": "PlayStation"
+  },
+  {
+    "Id": 760,
+    "CompanyName": "PlayVS"
+  },
+  {
+    "Id": 761,
+    "CompanyName": "Pluralsight"
+  },
+  {
+    "Id": 762,
+    "CompanyName": "PNC"
+  },
+  {
+    "Id": 763,
+    "CompanyName": "Podium"
+  },
+  {
+    "Id": 764,
+    "CompanyName": "Point72"
+  },
+  {
+    "Id": 765,
+    "CompanyName": "Policygenius"
+  },
+  {
+    "Id": 766,
+    "CompanyName": "Poshmark"
+  },
+  {
+    "Id": 767,
+    "CompanyName": "Postman"
+  },
+  {
+    "Id": 768,
+    "CompanyName": "Postmates"
+  },
+  {
+    "Id": 769,
+    "CompanyName": "Priceline"
+  },
+  {
+    "Id": 770,
+    "CompanyName": "Principal Financial Group"
+  },
+  {
+    "Id": 771,
+    "CompanyName": "Procore"
+  },
+  {
+    "Id": 772,
+    "CompanyName": "Procore Technologies"
+  },
+  {
+    "Id": 773,
+    "CompanyName": "Procter & Gamble"
+  },
+  {
+    "Id": 774,
+    "CompanyName": "Proofpoint"
+  },
+  {
+    "Id": 775,
+    "CompanyName": "prudential financial"
+  },
+  {
+    "Id": 776,
+    "CompanyName": "PTC"
+  },
+  {
+    "Id": 777,
+    "CompanyName": "Publicis Sapient"
+  },
+  {
+    "Id": 778,
+    "CompanyName": "Puppet"
+  },
+  {
+    "Id": 779,
+    "CompanyName": "Pure Storage"
+  },
+  {
+    "Id": 780,
+    "CompanyName": "PwC"
+  },
+  {
+    "Id": 781,
+    "CompanyName": "Qualcomm"
+  },
+  {
+    "Id": 782,
+    "CompanyName": "Qualcomm Inc"
+  },
+  {
+    "Id": 783,
+    "CompanyName": "Qualia"
+  },
+  {
+    "Id": 784,
+    "CompanyName": "Qualtrics"
+  },
+  {
+    "Id": 785,
+    "CompanyName": "Quantcast"
+  },
+  {
+    "Id": 786,
+    "CompanyName": "Quantiphi"
+  },
+  {
+    "Id": 787,
+    "CompanyName": "Quantumblack"
+  },
+  {
+    "Id": 788,
+    "CompanyName": "Quest Diagnostics"
+  },
+  {
+    "Id": 789,
+    "CompanyName": "Quicken Loans"
+  },
+  {
+    "Id": 790,
+    "CompanyName": "quora"
+  },
+  {
+    "Id": 791,
+    "CompanyName": "Rackspace"
+  },
+  {
+    "Id": 792,
+    "CompanyName": "Rakuten"
+  },
+  {
+    "Id": 793,
+    "CompanyName": "Rally Health"
+  },
+  {
+    "Id": 794,
+    "CompanyName": "Rapid7"
+  },
+  {
+    "Id": 795,
+    "CompanyName": "Rappi"
+  },
+  {
+    "Id": 796,
+    "CompanyName": "Raytheon"
+  },
+  {
+    "Id": 797,
+    "CompanyName": "Raytheon Technologies"
+  },
+  {
+    "Id": 798,
+    "CompanyName": "Razorpay"
+  },
+  {
+    "Id": 799,
+    "CompanyName": "RBC"
+  },
+  {
+    "Id": 800,
+    "CompanyName": "RBS"
+  },
+  {
+    "Id": 801,
+    "CompanyName": "realtek"
+  },
+  {
+    "Id": 802,
+    "CompanyName": "Realtor.com"
+  },
+  {
+    "Id": 803,
+    "CompanyName": "Red Hat"
+  },
+  {
+    "Id": 804,
+    "CompanyName": "Red Ventures"
+  },
+  {
+    "Id": 805,
+    "CompanyName": "Reddit"
+  },
+  {
+    "Id": 806,
+    "CompanyName": "Redfin"
+  },
+  {
+    "Id": 807,
+    "CompanyName": "Refinitiv"
+  },
+  {
+    "Id": 808,
+    "CompanyName": "Relativity"
+  },
+  {
+    "Id": 809,
+    "CompanyName": "Remitly"
+  },
+  {
+    "Id": 810,
+    "CompanyName": "Renesas Electronics"
+  },
+  {
+    "Id": 811,
+    "CompanyName": "Rent the Runway"
+  },
+  {
+    "Id": 812,
+    "CompanyName": "RentPath"
+  },
+  {
+    "Id": 813,
+    "CompanyName": "Rescale"
+  },
+  {
+    "Id": 814,
+    "CompanyName": "ResMed"
+  },
+  {
+    "Id": 815,
+    "CompanyName": "RetailMeNot"
+  },
+  {
+    "Id": 816,
+    "CompanyName": "Revolut"
+  },
+  {
+    "Id": 817,
+    "CompanyName": "RingCentral"
+  },
+  {
+    "Id": 818,
+    "CompanyName": "Riot Games"
+  },
+  {
+    "Id": 819,
+    "CompanyName": "Ripple"
+  },
+  {
+    "Id": 820,
+    "CompanyName": "Rippling"
+  },
+  {
+    "Id": 821,
+    "CompanyName": "Rivian"
+  },
+  {
+    "Id": 822,
+    "CompanyName": "Robert Half"
+  },
+  {
+    "Id": 823,
+    "CompanyName": "Robinhood"
+  },
+  {
+    "Id": 824,
+    "CompanyName": "Roblox"
+  },
+  {
+    "Id": 825,
+    "CompanyName": "Roche"
+  },
+  {
+    "Id": 826,
+    "CompanyName": "Roku"
+  },
+  {
+    "Id": 827,
+    "CompanyName": "Root Insurance"
+  },
+  {
+    "Id": 828,
+    "CompanyName": "Rover"
+  },
+  {
+    "Id": 829,
+    "CompanyName": "Rubrik"
+  },
+  {
+    "Id": 830,
+    "CompanyName": "S&P GLOBAL"
+  },
+  {
+    "Id": 831,
+    "CompanyName": "Sabre"
+  },
+  {
+    "Id": 832,
+    "CompanyName": "Sage"
+  },
+  {
+    "Id": 833,
+    "CompanyName": "SAIC"
+  },
+  {
+    "Id": 834,
+    "CompanyName": "SailPoint"
+  },
+  {
+    "Id": 835,
+    "CompanyName": "Salesforce"
+  },
+  {
+    "Id": 836,
+    "CompanyName": "Samsara"
+  },
+  {
+    "Id": 837,
+    "CompanyName": "samsung"
+  },
+  {
+    "Id": 838,
+    "CompanyName": "Samsung Electronics America"
+  },
+  {
+    "Id": 839,
+    "CompanyName": "Samsung Research America"
+  },
+  {
+    "Id": 840,
+    "CompanyName": "Sandia National Labs"
+  },
+  {
+    "Id": 841,
+    "CompanyName": "SAP"
+  },
+  {
+    "Id": 842,
+    "CompanyName": "Sap Concur"
+  },
+  {
+    "Id": 843,
+    "CompanyName": "SAS"
+  },
+  {
+    "Id": 844,
+    "CompanyName": "SAS Institute"
+  },
+  {
+    "Id": 845,
+    "CompanyName": "SAS Software"
+  },
+  {
+    "Id": 846,
+    "CompanyName": "Sberbank"
+  },
+  {
+    "Id": 847,
+    "CompanyName": "Scale AI"
+  },
+  {
+    "Id": 848,
+    "CompanyName": "Schlumberger"
+  },
+  {
+    "Id": 849,
+    "CompanyName": "Schneider Electric"
+  },
+  {
+    "Id": 850,
+    "CompanyName": "Scotiabank"
+  },
+  {
+    "Id": 851,
+    "CompanyName": "Scribd"
+  },
+  {
+    "Id": 852,
+    "CompanyName": "Seagate"
+  },
+  {
+    "Id": 853,
+    "CompanyName": "Segment"
+  },
+  {
+    "Id": 854,
+    "CompanyName": "Sephora"
+  },
+  {
+    "Id": 855,
+    "CompanyName": "ServiceNow"
+  },
+  {
+    "Id": 856,
+    "CompanyName": "ServiceTitan"
+  },
+  {
+    "Id": 857,
+    "CompanyName": "Shell"
+  },
+  {
+    "Id": 858,
+    "CompanyName": "Shipt"
+  },
+  {
+    "Id": 859,
+    "CompanyName": "Shopee"
+  },
+  {
+    "Id": 860,
+    "CompanyName": "Shopify"
+  },
+  {
+    "Id": 861,
+    "CompanyName": "Shutterfly"
+  },
+  {
+    "Id": 862,
+    "CompanyName": "Shutterstock"
+  },
+  {
+    "Id": 863,
+    "CompanyName": "Siemens"
+  },
+  {
+    "Id": 864,
+    "CompanyName": "Sift"
+  },
+  {
+    "Id": 865,
+    "CompanyName": "Silicon Labs"
+  },
+  {
+    "Id": 866,
+    "CompanyName": "Silicon Valley Bank"
+  },
+  {
+    "Id": 867,
+    "CompanyName": "SingleStore"
+  },
+  {
+    "Id": 868,
+    "CompanyName": "SiriusXM"
+  },
+  {
+    "Id": 869,
+    "CompanyName": "Sisense"
+  },
+  {
+    "Id": 870,
+    "CompanyName": "Skyscanner"
+  },
+  {
+    "Id": 871,
+    "CompanyName": "Slack"
+  },
+  {
+    "Id": 872,
+    "CompanyName": "Slalom"
+  },
+  {
+    "Id": 873,
+    "CompanyName": "smartsheet"
+  },
+  {
+    "Id": 874,
+    "CompanyName": "SmartThings"
+  },
+  {
+    "Id": 875,
+    "CompanyName": "Snap"
+  },
+  {
+    "Id": 876,
+    "CompanyName": "Snapchat"
+  },
+  {
+    "Id": 877,
+    "CompanyName": "Snapdocs"
+  },
+  {
+    "Id": 878,
+    "CompanyName": "Snowflake"
+  },
+  {
+    "Id": 879,
+    "CompanyName": "Societe Generale"
+  },
+  {
+    "Id": 880,
+    "CompanyName": "SoFi"
+  },
+  {
+    "Id": 881,
+    "CompanyName": "SoftServe"
+  },
+  {
+    "Id": 882,
+    "CompanyName": "SolarWinds"
+  },
+  {
+    "Id": 883,
+    "CompanyName": "Sonder"
+  },
+  {
+    "Id": 884,
+    "CompanyName": "Sonos"
+  },
+  {
+    "Id": 885,
+    "CompanyName": "Sony"
+  },
+  {
+    "Id": 886,
+    "CompanyName": "Sony Interactive Entertainment"
+  },
+  {
+    "Id": 887,
+    "CompanyName": "Sophos"
+  },
+  {
+    "Id": 888,
+    "CompanyName": "Soroco"
+  },
+  {
+    "Id": 889,
+    "CompanyName": "SoundCloud"
+  },
+  {
+    "Id": 890,
+    "CompanyName": "Southwest Airlines"
+  },
+  {
+    "Id": 891,
+    "CompanyName": "SpaceX"
+  },
+  {
+    "Id": 892,
+    "CompanyName": "Spectrum"
+  },
+  {
+    "Id": 893,
+    "CompanyName": "Splunk"
+  },
+  {
+    "Id": 894,
+    "CompanyName": "Spotify"
+  },
+  {
+    "Id": 895,
+    "CompanyName": "Sprinklr"
+  },
+  {
+    "Id": 896,
+    "CompanyName": "Sprout Social"
+  },
+  {
+    "Id": 897,
+    "CompanyName": "SPS Commerce"
+  },
+  {
+    "Id": 898,
+    "CompanyName": "Square"
+  },
+  {
+    "Id": 899,
+    "CompanyName": "Squarepoint Capital"
+  },
+  {
+    "Id": 900,
+    "CompanyName": "Squarespace"
+  },
+  {
+    "Id": 901,
+    "CompanyName": "SS&C Technologies"
+  },
+  {
+    "Id": 902,
+    "CompanyName": "Stack Overflow"
+  },
+  {
+    "Id": 903,
+    "CompanyName": "Staples"
+  },
+  {
+    "Id": 904,
+    "CompanyName": "Starbucks"
+  },
+  {
+    "Id": 905,
+    "CompanyName": "Starling Bank"
+  },
+  {
+    "Id": 906,
+    "CompanyName": "Startup"
+  },
+  {
+    "Id": 907,
+    "CompanyName": "Stash"
+  },
+  {
+    "Id": 908,
+    "CompanyName": "State Farm"
+  },
+  {
+    "Id": 909,
+    "CompanyName": "State Street"
+  },
+  {
+    "Id": 910,
+    "CompanyName": "STChealth"
+  },
+  {
+    "Id": 911,
+    "CompanyName": "Stitch Fix"
+  },
+  {
+    "Id": 912,
+    "CompanyName": "StockX"
+  },
+  {
+    "Id": 913,
+    "CompanyName": "Strategy by PwC"
+  },
+  {
+    "Id": 914,
+    "CompanyName": "Stripe"
+  },
+  {
+    "Id": 915,
+    "CompanyName": "Stryker"
+  },
+  {
+    "Id": 916,
+    "CompanyName": "StubHub"
+  },
+  {
+    "Id": 917,
+    "CompanyName": "Sumo Logic"
+  },
+  {
+    "Id": 918,
+    "CompanyName": "Supermicro"
+  },
+  {
+    "Id": 919,
+    "CompanyName": "Surveymonkey"
+  },
+  {
+    "Id": 920,
+    "CompanyName": "Susquehanna International Group"
+  },
+  {
+    "Id": 921,
+    "CompanyName": "Swiggy"
+  },
+  {
+    "Id": 922,
+    "CompanyName": "Swiss Re"
+  },
+  {
+    "Id": 923,
+    "CompanyName": "Swisscom"
+  },
+  {
+    "Id": 924,
+    "CompanyName": "Symantec"
+  },
+  {
+    "Id": 925,
+    "CompanyName": "Synaptics"
+  },
+  {
+    "Id": 926,
+    "CompanyName": "Synchrony"
+  },
+  {
+    "Id": 927,
+    "CompanyName": "Synechron"
+  },
+  {
+    "Id": 928,
+    "CompanyName": "Synology"
+  },
+  {
+    "Id": 929,
+    "CompanyName": "Synopsys"
+  },
+  {
+    "Id": 930,
+    "CompanyName": "Sysdig"
+  },
+  {
+    "Id": 931,
+    "CompanyName": "T. Rowe Price"
+  },
+  {
+    "Id": 932,
+    "CompanyName": "Tableau Software"
+  },
+  {
+    "Id": 933,
+    "CompanyName": "talend"
+  },
+  {
+    "Id": 934,
+    "CompanyName": "Tanium"
+  },
+  {
+    "Id": 935,
+    "CompanyName": "Target"
+  },
+  {
+    "Id": 936,
+    "CompanyName": "TaskRabbit"
+  },
+  {
+    "Id": 937,
+    "CompanyName": "Tata Consultancy Services"
+  },
+  {
+    "Id": 938,
+    "CompanyName": "TCS"
+  },
+  {
+    "Id": 939,
+    "CompanyName": "TD Bank"
+  },
+  {
+    "Id": 940,
+    "CompanyName": "Tekion"
+  },
+  {
+    "Id": 941,
+    "CompanyName": "Teksystems"
+  },
+  {
+    "Id": 942,
+    "CompanyName": "Teladoc Health"
+  },
+  {
+    "Id": 943,
+    "CompanyName": "TELUS"
+  },
+  {
+    "Id": 944,
+    "CompanyName": "Tempus"
+  },
+  {
+    "Id": 945,
+    "CompanyName": "Tenable"
+  },
+  {
+    "Id": 946,
+    "CompanyName": "tencent"
+  },
+  {
+    "Id": 947,
+    "CompanyName": "Teradata"
+  },
+  {
+    "Id": 948,
+    "CompanyName": "Tesco"
+  },
+  {
+    "Id": 949,
+    "CompanyName": "Tesla"
+  },
+  {
+    "Id": 950,
+    "CompanyName": "Test"
+  },
+  {
+    "Id": 951,
+    "CompanyName": "Texas Instruments"
+  },
+  {
+    "Id": 952,
+    "CompanyName": "The Climate Corporation"
+  },
+  {
+    "Id": 953,
+    "CompanyName": "The D. E. Shaw Group"
+  },
+  {
+    "Id": 954,
+    "CompanyName": "The Hartford"
+  },
+  {
+    "Id": 955,
+    "CompanyName": "The Home Depot"
+  },
+  {
+    "Id": 956,
+    "CompanyName": "The New York Times Company"
+  },
+  {
+    "Id": 957,
+    "CompanyName": "The Trade Desk"
+  },
+  {
+    "Id": 958,
+    "CompanyName": "The Voleon Group"
+  },
+  {
+    "Id": 959,
+    "CompanyName": "The Walt Disney Company"
+  },
+  {
+    "Id": 960,
+    "CompanyName": "Thermo Fisher Scientific"
+  },
+  {
+    "Id": 961,
+    "CompanyName": "Thomson Reuters"
+  },
+  {
+    "Id": 962,
+    "CompanyName": "Thought Machine"
+  },
+  {
+    "Id": 963,
+    "CompanyName": "ThoughtSpot"
+  },
+  {
+    "Id": 964,
+    "CompanyName": "ThoughtWorks"
+  },
+  {
+    "Id": 965,
+    "CompanyName": "Thumbtack"
+  },
+  {
+    "Id": 966,
+    "CompanyName": "TIAA"
+  },
+  {
+    "Id": 967,
+    "CompanyName": "TIBCO Software"
+  },
+  {
+    "Id": 968,
+    "CompanyName": "Ticketmaster"
+  },
+  {
+    "Id": 969,
+    "CompanyName": "TikTok"
+  },
+  {
+    "Id": 970,
+    "CompanyName": "Tinder"
+  },
+  {
+    "Id": 971,
+    "CompanyName": "Tinkoff"
+  },
+  {
+    "Id": 972,
+    "CompanyName": "Tipalti"
+  },
+  {
+    "Id": 973,
+    "CompanyName": "T-Mobile"
+  },
+  {
+    "Id": 974,
+    "CompanyName": "Toast"
+  },
+  {
+    "Id": 975,
+    "CompanyName": "Tokopedia"
+  },
+  {
+    "Id": 976,
+    "CompanyName": "TomTom"
+  },
+  {
+    "Id": 977,
+    "CompanyName": "top hat"
+  },
+  {
+    "Id": 978,
+    "CompanyName": "Tower Research Capital"
+  },
+  {
+    "Id": 979,
+    "CompanyName": "Toyota Research Institute"
+  },
+  {
+    "Id": 980,
+    "CompanyName": "Toyota USA"
+  },
+  {
+    "Id": 981,
+    "CompanyName": "Tradeweb"
+  },
+  {
+    "Id": 982,
+    "CompanyName": "TransUnion"
+  },
+  {
+    "Id": 983,
+    "CompanyName": "Travelers"
+  },
+  {
+    "Id": 984,
+    "CompanyName": "Traveloka"
+  },
+  {
+    "Id": 985,
+    "CompanyName": "Travelport"
+  },
+  {
+    "Id": 986,
+    "CompanyName": "Trend Micro"
+  },
+  {
+    "Id": 987,
+    "CompanyName": "Trimble"
+  },
+  {
+    "Id": 988,
+    "CompanyName": "TriNet"
+  },
+  {
+    "Id": 989,
+    "CompanyName": "TripAdvisor"
+  },
+  {
+    "Id": 990,
+    "CompanyName": "Truckstop.com"
+  },
+  {
+    "Id": 991,
+    "CompanyName": "TrueCar"
+  },
+  {
+    "Id": 992,
+    "CompanyName": "TSMC"
+  },
+  {
+    "Id": 993,
+    "CompanyName": "TUNE"
+  },
+  {
+    "Id": 994,
+    "CompanyName": "Turbonomic"
+  },
+  {
+    "Id": 995,
+    "CompanyName": "Turo"
+  },
+  {
+    "Id": 996,
+    "CompanyName": "TuSimple"
+  },
+  {
+    "Id": 997,
+    "CompanyName": "Twilio"
+  },
+  {
+    "Id": 998,
+    "CompanyName": "Twitch"
+  },
+  {
+    "Id": 999,
+    "CompanyName": "Twitter"
+  },
+  {
+    "Id": 1000,
+    "CompanyName": "Two Sigma"
+  },
+  {
+    "Id": 1001,
+    "CompanyName": "Tyler Technologies"
+  },
+  {
+    "Id": 1002,
+    "CompanyName": "U.S. Bank"
+  },
+  {
+    "Id": 1003,
+    "CompanyName": "Uber"
+  },
+  {
+    "Id": 1004,
+    "CompanyName": "Ubiquiti"
+  },
+  {
+    "Id": 1005,
+    "CompanyName": "Ubisoft"
+  },
+  {
+    "Id": 1006,
+    "CompanyName": "UBS"
+  },
+  {
+    "Id": 1007,
+    "CompanyName": "udaan.com"
+  },
+  {
+    "Id": 1008,
+    "CompanyName": "Udemy"
+  },
+  {
+    "Id": 1009,
+    "CompanyName": "UiPath"
+  },
+  {
+    "Id": 1010,
+    "CompanyName": "UKG"
+  },
+  {
+    "Id": 1011,
+    "CompanyName": "Ultimate Software"
+  },
+  {
+    "Id": 1012,
+    "CompanyName": "Under Armour"
+  },
+  {
+    "Id": 1013,
+    "CompanyName": "Unilever"
+  },
+  {
+    "Id": 1014,
+    "CompanyName": "Unisys"
+  },
+  {
+    "Id": 1015,
+    "CompanyName": "united airlines"
+  },
+  {
+    "Id": 1016,
+    "CompanyName": "UnitedHealth Group"
+  },
+  {
+    "Id": 1017,
+    "CompanyName": "Unity Technologies"
+  },
+  {
+    "Id": 1018,
+    "CompanyName": "Upstart"
+  },
+  {
+    "Id": 1019,
+    "CompanyName": "Upwork"
+  },
+  {
+    "Id": 1020,
+    "CompanyName": "USAA"
+  },
+  {
+    "Id": 1021,
+    "CompanyName": "Vanguard"
+  },
+  {
+    "Id": 1022,
+    "CompanyName": "veeva systems"
+  },
+  {
+    "Id": 1023,
+    "CompanyName": "Verily Life Sciences"
+  },
+  {
+    "Id": 1024,
+    "CompanyName": "Verint"
+  },
+  {
+    "Id": 1025,
+    "CompanyName": "Verisign"
+  },
+  {
+    "Id": 1026,
+    "CompanyName": "Veritas Technologies"
+  },
+  {
+    "Id": 1027,
+    "CompanyName": "Verizon"
+  },
+  {
+    "Id": 1028,
+    "CompanyName": "Verizon Media"
+  },
+  {
+    "Id": 1029,
+    "CompanyName": "verkada"
+  },
+  {
+    "Id": 1030,
+    "CompanyName": "ViacomCBS"
+  },
+  {
+    "Id": 1031,
+    "CompanyName": "Viasat"
+  },
+  {
+    "Id": 1032,
+    "CompanyName": "Vimeo"
+  },
+  {
+    "Id": 1033,
+    "CompanyName": "Virtu Financial"
+  },
+  {
+    "Id": 1034,
+    "CompanyName": "virtusa"
+  },
+  {
+    "Id": 1035,
+    "CompanyName": "VISA"
+  },
+  {
+    "Id": 1036,
+    "CompanyName": "Visa Inc"
+  },
+  {
+    "Id": 1037,
+    "CompanyName": "Vistaprint"
+  },
+  {
+    "Id": 1038,
+    "CompanyName": "vizio"
+  },
+  {
+    "Id": 1039,
+    "CompanyName": "VMWare"
+  },
+  {
+    "Id": 1040,
+    "CompanyName": "Volkswagen"
+  },
+  {
+    "Id": 1041,
+    "CompanyName": "Vonage"
+  },
+  {
+    "Id": 1042,
+    "CompanyName": "Vrbo"
+  },
+  {
+    "Id": 1043,
+    "CompanyName": "Walmart"
+  },
+  {
+    "Id": 1044,
+    "CompanyName": "Walmart Labs"
+  },
+  {
+    "Id": 1045,
+    "CompanyName": "warby parker"
+  },
+  {
+    "Id": 1046,
+    "CompanyName": "WarnerMedia"
+  },
+  {
+    "Id": 1047,
+    "CompanyName": "Wattpad"
+  },
+  {
+    "Id": 1048,
+    "CompanyName": "Wayfair"
+  },
+  {
+    "Id": 1049,
+    "CompanyName": "Waymo"
+  },
+  {
+    "Id": 1050,
+    "CompanyName": "Wealthfront"
+  },
+  {
+    "Id": 1051,
+    "CompanyName": "Wealthsimple"
+  },
+  {
+    "Id": 1052,
+    "CompanyName": "Weave"
+  },
+  {
+    "Id": 1053,
+    "CompanyName": "Webflow"
+  },
+  {
+    "Id": 1054,
+    "CompanyName": "Weedmaps"
+  },
+  {
+    "Id": 1055,
+    "CompanyName": "Wells Fargo"
+  },
+  {
+    "Id": 1056,
+    "CompanyName": "WePay"
+  },
+  {
+    "Id": 1057,
+    "CompanyName": "Western Digital"
+  },
+  {
+    "Id": 1058,
+    "CompanyName": "WeWork"
+  },
+  {
+    "Id": 1059,
+    "CompanyName": "WHOOP"
+  },
+  {
+    "Id": 1060,
+    "CompanyName": "Willis Towers Watson"
+  },
+  {
+    "Id": 1061,
+    "CompanyName": "Wipro"
+  },
+  {
+    "Id": 1062,
+    "CompanyName": "Wipro Limited"
+  },
+  {
+    "Id": 1063,
+    "CompanyName": "Wise"
+  },
+  {
+    "Id": 1064,
+    "CompanyName": "Wish"
+  },
+  {
+    "Id": 1065,
+    "CompanyName": "Wix"
+  },
+  {
+    "Id": 1066,
+    "CompanyName": "Wolters Kluwer"
+  },
+  {
+    "Id": 1067,
+    "CompanyName": "Workday"
+  },
+  {
+    "Id": 1068,
+    "CompanyName": "Workhuman"
+  },
+  {
+    "Id": 1069,
+    "CompanyName": "Workiva"
+  },
+  {
+    "Id": 1070,
+    "CompanyName": "World Wide Technology"
+  },
+  {
+    "Id": 1071,
+    "CompanyName": "WP Engine"
+  },
+  {
+    "Id": 1072,
+    "CompanyName": "Xandr"
+  },
+  {
+    "Id": 1073,
+    "CompanyName": "Xendit"
+  },
+  {
+    "Id": 1074,
+    "CompanyName": "Xero"
+  },
+  {
+    "Id": 1075,
+    "CompanyName": "Xilinx"
+  },
+  {
+    "Id": 1076,
+    "CompanyName": "Xing"
+  },
+  {
+    "Id": 1077,
+    "CompanyName": "XPO Logistics"
+  },
+  {
+    "Id": 1078,
+    "CompanyName": "Yahoo"
+  },
+  {
+    "Id": 1079,
+    "CompanyName": "Yandex"
+  },
+  {
+    "Id": 1080,
+    "CompanyName": "Yelp"
+  },
+  {
+    "Id": 1081,
+    "CompanyName": "Yext"
+  },
+  {
+    "Id": 1082,
+    "CompanyName": "Zalando"
+  },
+  {
+    "Id": 1083,
+    "CompanyName": "zapier"
+  },
+  {
+    "Id": 1084,
+    "CompanyName": "Zappos"
+  },
+  {
+    "Id": 1085,
+    "CompanyName": "Zebra Technologies"
+  },
+  {
+    "Id": 1086,
+    "CompanyName": "Zendesk"
+  },
+  {
+    "Id": 1087,
+    "CompanyName": "Zenefits"
+  },
+  {
+    "Id": 1088,
+    "CompanyName": "Zeta"
+  },
+  {
+    "Id": 1089,
+    "CompanyName": "Zillow"
+  },
+  {
+    "Id": 1090,
+    "CompanyName": "Zillow Group"
+  },
+  {
+    "Id": 1091,
+    "CompanyName": "ZipRecruiter"
+  },
+  {
+    "Id": 1092,
+    "CompanyName": "Zocdoc"
+  },
+  {
+    "Id": 1093,
+    "CompanyName": "Zoho"
+  },
+  {
+    "Id": 1094,
+    "CompanyName": "Zomato"
+  },
+  {
+    "Id": 1095,
+    "CompanyName": "zoom"
+  },
+  {
+    "Id": 1096,
+    "CompanyName": "Zoominfo"
+  },
+  {
+    "Id": 1097,
+    "CompanyName": "Zoox"
+  },
+  {
+    "Id": 1098,
+    "CompanyName": "ZS"
+  },
+  {
+    "Id": 1099,
+    "CompanyName": "ZS Associates"
+  },
+  {
+    "Id": 1100,
+    "CompanyName": "Zscaler"
+  },
+  {
+    "Id": 1101,
+    "CompanyName": "Zulily"
+  },
+  {
+    "Id": 1102,
+    "CompanyName": "Zynga"
+  }
+]

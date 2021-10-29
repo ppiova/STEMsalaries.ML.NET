@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "TitleName": "Business Analyst"
+  },
+  {
+    "Id": 2,
+    "TitleName": "Data Scientist"
+  },
+  {
+    "Id": 3,
+    "TitleName": "Hardware Engineer"
+  },
+  {
+    "Id": 4,
+    "TitleName": "Human Resources"
+  },
+  {
+    "Id": 5,
+    "TitleName": "Management Consultant"
+  },
+  {
+    "Id": 6,
+    "TitleName": "Marketing"
+  },
+  {
+    "Id": 7,
+    "TitleName": "Mechanical Engineer"
+  },
+  {
+    "Id": 8,
+    "TitleName": "Product Designer"
+  },
+  {
+    "Id": 9,
+    "TitleName": "Product Manager"
+  },
+  {
+    "Id": 10,
+    "TitleName": "Recruiter"
+  },
+  {
+    "Id": 11,
+    "TitleName": "Sales"
+  },
+  {
+    "Id": 12,
+    "TitleName": "Software Engineer"
+  },
+  {
+    "Id": 13,
+    "TitleName": "Software Engineering Manager"
+  },
+  {
+    "Id": 14,
+    "TitleName": "Solution Architect"
+  },
+  {
+    "Id": 15,
+    "TitleName": "Technical Program Manager"
+  }
+]

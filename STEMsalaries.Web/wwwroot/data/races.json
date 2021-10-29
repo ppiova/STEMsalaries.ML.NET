@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "RaceName": "NA"
+  },
+  {
+    "Id": 2,
+    "RaceName": "Asian"
+  },
+  {
+    "Id": 3,
+    "RaceName": "Black"
+  },
+  {
+    "Id": 4,
+    "RaceName": "Hispanic"
+  },
+  {
+    "Id": 5,
+    "RaceName": "Two Or More"
+  },
+  {
+    "Id": 6,
+    "RaceName": "White"
+  }
+]

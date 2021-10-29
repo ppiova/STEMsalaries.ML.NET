@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "EducationName": "NA"
+  },
+  {
+    "Id": 2,
+    "EducationName": "Bachelor's Degree"
+  },
+  {
+    "Id": 3,
+    "EducationName": "Highschool"
+  },
+  {
+    "Id": 4,
+    "EducationName": "Master's Degree"
+  },
+  {
+    "Id": 5,
+    "EducationName": "PhD"
+  },
+  {
+    "Id": 6,
+    "EducationName": "Some College"
+  }
+]
