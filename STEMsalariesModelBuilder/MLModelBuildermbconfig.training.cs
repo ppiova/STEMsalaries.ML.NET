@@ -28,13 +28,12 @@ namespace STEMsalariesModelBuilder
         public static IEstimator<ITransformer> BuildPipeline(MLContext mlContext)
         {
             // Data process configuration with pipeline data transformations
-            var pipeline = mlContext.Transforms.Categorical.OneHotEncoding(new []{new InputOutputColumnPair(@"Title", @"Title"),new InputOutputColumnPair(@"Gender", @"Gender"),new InputOutputColumnPair(@"Race", @"Race"),new InputOutputColumnPair(@"Education", @"Education")})      
+            var pipeline = mlContext.Transforms.Categorical.OneHotEncoding(new []{new InputOutputColumnPair(@"Company", @"Company"),new InputOutputColumnPair(@"Title", @"Title"),new InputOutputColumnPair(@"Gender", @"Gender"),new InputOutputColumnPair(@"Race", @"Race"),new InputOutputColumnPair(@"Education", @"Education")})      
                                     .Append(mlContext.Transforms.ReplaceMissingValues(new []{new InputOutputColumnPair(@"YearsExperience", @"YearsExperience"),new InputOutputColumnPair(@"YearsCompany", @"YearsCompany")}))      
-                                    .Append(mlContext.Transforms.Text.FeaturizeText(@"Company", @"Company"))      
                                     .Append(mlContext.Transforms.Text.FeaturizeText(@"Location", @"Location"))      
-                                    .Append(mlContext.Transforms.Concatenate(@"Features", new []{@"Title",@"Gender",@"Race",@"Education",@"YearsExperience",@"YearsCompany",@"Company",@"Location"}))      
+                                    .Append(mlContext.Transforms.Concatenate(@"Features", new []{@"Company",@"Title",@"Gender",@"Race",@"Education",@"YearsExperience",@"YearsCompany",@"Location"}))      
                                     .Append(mlContext.Transforms.NormalizeMinMax(@"Features", @"Features"))      
-                                    .Append(mlContext.Regression.Trainers.LbfgsPoissonRegression(l1Regularization:32768F,l2Regularization:240.981670487324F,labelColumnName:@"AnualCompensation",featureColumnName:@"Features"));
+                                    .Append(mlContext.Regression.Trainers.LbfgsPoissonRegression(l1Regularization:32768F,l2Regularization:0.32356313664532F,labelColumnName:@"AnualCompensation",featureColumnName:@"Features"));
 
             return pipeline;
         }

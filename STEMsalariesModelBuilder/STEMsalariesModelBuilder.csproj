@@ -6,8 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.ML" Version="1.6.0" />
-    <PackageReference Include="Microsoft.ML.FastTree" Version="1.6.0" />
+    <PackageReference Include="Microsoft.ML" Version="1.7.0-preview.final" />
+    <PackageReference Include="Microsoft.ML.FastTree" Version="1.7.0-preview.final" />
+    <PackageReference Include="Microsoft.ML.LightGbm" Version="1.7.0-preview.final" />
   </ItemGroup>
   <ItemGroup Label="MLModelBuildermbconfig">
     <None Include="MLModelBuildermbconfig.consumption.cs">
