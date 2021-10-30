@@ -9,7 +9,7 @@ The inputs for machine learning are called Features, which are the attributes us
 Data in ML.NET is represented as an IDataView, which is a flexible, efficient way of describing tabular data (for example, rows and columns). IDataView objects can contain numbers, text, booleans, vectors, and more. You can load data from files or from real-time streaming sources to an IDataView.
 LoadFromTextFile allows you to load data from TXT, CSV, TSV, and other file formats.<br />
 ### Use the "DataSTEMSalary.csv" file for load data<br />
-Tip: LoadFromEnumerable enables loading from in-memory collections, JSON/XML, relational and non-relational databases (for example, SQL, CosmosDB, MongoDB), and many other data sources. Link for more information: https://docs.microsoft.com/en-us/dotnet/machine-learning/how-to-guides/load-data-ml-net?WT.mc_id=dotnet-35129-website
+Tip: LoadFromEnumerable enables loading from in-memory collections, JSON/XML, relational and non-relational databases (for example, SQL, CosmosDB, MongoDB), and many other data sources. Link for more information: https://docs.microsoft.com/en-us/dotnet/machine-learning/how-to-guides/load-data-ml-net?WT.mc_id=dotnet-35129-website <br /><br />
 ![](images/mldotnet-001.png)<br /><br />
 + Transform data: In most cases, the data that you have available isn't suitable to be used directly to train a machine learning model. The raw data needs to be pre-processed using data transformations.<br />
 + Choose algorithm: When using machine learning and ML.NET, you must choose a machine learning task that goes along with your scenario. ML.NET offers over 30 algorithms (or trainers) for a variety of ML tasks:
@@ -20,7 +20,7 @@ I used LbfgsPoissonRegression.<br /><br />
 An estimator takes in data, learns from the data, and creates a transformer. In the case of model training, the training data is the input, and the trained model is the output; the trained model is thus a transformer that turns the input Features from new data into output predictions.<br />
 Link for more information aboul model training: https://docs.microsoft.com/en-us/dotnet/machine-learning/how-to-guides/train-machine-learning-model-ml-net?WT.mc_id=dotnet-35129-website <br /><br />
 
-+ Evaluate model: ML.NET offers evaluators that assess the performance of your model on a variety of metrics. Link evaluation metrics: https://docs.microsoft.com/en-us/dotnet/machine-learning/resources/metrics?WT.mc_id=dotnet-35129-website<br />
++ Evaluate model: ML.NET offers evaluators that assess the performance of your model on a variety of metrics. Link evaluation metrics: https://docs.microsoft.com/en-us/dotnet/machine-learning/resources/metrics?WT.mc_id=dotnet-35129-website<br /><br />
 ![](images/mldotnet-021.png)<br /><br />
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Use the same example with ML.NET Model Builder 💪<br />
