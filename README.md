@@ -58,3 +58,4 @@ I was training with a little more time with model builder and then exported the 
 >https://docs.microsoft.com/en-us/dotnet/machine-learning/<br />
 >https://dotnet.microsoft.com/learn/ml-dotnet/what-is-mldotnet<br />
 >https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet/model-builder
+
