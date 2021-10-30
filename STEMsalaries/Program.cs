@@ -53,8 +53,8 @@ namespace STEMsalaries
             var TestMetrics = context.Regression
                 .Evaluate(TestPredictions, labelColumnName: "Label", scoreColumnName: "Score");
 
-            Console.WriteLine($"R-Squared Set de Entrenamiento: {TrainingMetrics.RSquared}");
-            Console.WriteLine($"R-Squared Set de Prueba: {TestMetrics.RSquared}");
+            Console.WriteLine($"R-Squared Train set: {TrainingMetrics.RSquared}");
+            Console.WriteLine($"R-Squared Test set: {TestMetrics.RSquared}");
 
             var crossValidation = context.Regression.CrossValidate(data, pipelineTraining, numberOfFolds: 5);
             var R_Squared_Avg = crossValidation.Select(modelo => modelo.Metrics.RSquared).Average();
