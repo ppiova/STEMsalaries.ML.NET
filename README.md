@@ -20,7 +20,7 @@ An estimator takes in data, learns from the data, and creates a transformer. In 
 Link for more information aboul model training: https://docs.microsoft.com/en-us/dotnet/machine-learning/how-to-guides/train-machine-learning-model-ml-net?WT.mc_id=dotnet-35129-website <br /><br />
 
 + Evaluate model: ML.NET offers evaluators that assess the performance of your model on a variety of metrics. Link evaluation metrics: https://docs.microsoft.com/en-us/dotnet/machine-learning/resources/metrics?WT.mc_id=dotnet-35129-website<br />
-![](images/mldotnet-02.png)<br /><br />
+![](images/mldotnet-021.png)<br /><br />
 
 
 
