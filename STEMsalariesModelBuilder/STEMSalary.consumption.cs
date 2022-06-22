@@ -7,10 +7,10 @@ using System.IO;
 using System.Collections.Generic;
 namespace STEMsalariesModelBuilder
 {
-    public partial class MLModelBuildermbconfig
+    public partial class STEMSalary
     {
         /// <summary>
-        /// model input class for MLModelBuildermbconfig.
+        /// model input class for STEMSalary.
         /// </summary>
         #region model input class
         public class ModelInput
@@ -47,16 +47,49 @@ namespace STEMsalariesModelBuilder
         #endregion
 
         /// <summary>
-        /// model output class for MLModelBuildermbconfig.
+        /// model output class for STEMSalary.
         /// </summary>
         #region model output class
         public class ModelOutput
         {
+            [ColumnName(@"AnualCompensation")]
+            public float AnualCompensation { get; set; }
+
+            [ColumnName(@"Company")]
+            public float[] Company { get; set; }
+
+            [ColumnName(@"Title")]
+            public float[] Title { get; set; }
+
+            [ColumnName(@"YearsExperience")]
+            public float YearsExperience { get; set; }
+
+            [ColumnName(@"YearsCompany")]
+            public float YearsCompany { get; set; }
+
+            [ColumnName(@"Gender")]
+            public float[] Gender { get; set; }
+
+            [ColumnName(@"Location")]
+            public float[] Location { get; set; }
+
+            [ColumnName(@"Race")]
+            public float[] Race { get; set; }
+
+            [ColumnName(@"Education")]
+            public float[] Education { get; set; }
+
+            [ColumnName(@"Features")]
+            public float[] Features { get; set; }
+
+            [ColumnName(@"Score")]
             public float Score { get; set; }
+
         }
+
         #endregion
 
-        private static string MLNetModelPath = Path.GetFullPath("MLModelBuildermbconfig.zip");
+        private static string MLNetModelPath = Path.GetFullPath("STEMSalary.zip");
 
         public static readonly Lazy<PredictionEngine<ModelInput, ModelOutput>> PredictEngine = new Lazy<PredictionEngine<ModelInput, ModelOutput>>(() => CreatePredictEngine(), true);
 
