@@ -15,7 +15,7 @@
         "ColumnDataFormat": "Single",
         "IsCategorical": false,
         "Type": "Column",
-        "Version": 1
+        "Version": 2
       },
       {
         "ColumnName": "Company",
@@ -23,7 +23,7 @@
         "ColumnDataFormat": "String",
         "IsCategorical": false,
         "Type": "Column",
-        "Version": 1
+        "Version": 2
       },
       {
         "ColumnName": "Title",
@@ -31,7 +31,7 @@
         "ColumnDataFormat": "String",
         "IsCategorical": true,
         "Type": "Column",
-        "Version": 1
+        "Version": 2
       },
       {
         "ColumnName": "YearsExperience",
@@ -39,7 +39,7 @@
         "ColumnDataFormat": "Single",
         "IsCategorical": true,
         "Type": "Column",
-        "Version": 1
+        "Version": 2
       },
       {
         "ColumnName": "YearsCompany",
@@ -47,7 +47,7 @@
         "ColumnDataFormat": "Single",
         "IsCategorical": false,
         "Type": "Column",
-        "Version": 1
+        "Version": 2
       },
       {
         "ColumnName": "Gender",
@@ -55,7 +55,7 @@
         "ColumnDataFormat": "String",
         "IsCategorical": true,
         "Type": "Column",
-        "Version": 1
+        "Version": 2
       },
       {
         "ColumnName": "Location",
@@ -63,7 +63,7 @@
         "ColumnDataFormat": "String",
         "IsCategorical": false,
         "Type": "Column",
-        "Version": 1
+        "Version": 2
       },
       {
         "ColumnName": "Race",
@@ -71,7 +71,7 @@
         "ColumnDataFormat": "String",
         "IsCategorical": true,
         "Type": "Column",
-        "Version": 1
+        "Version": 2
       },
       {
         "ColumnName": "Education",
@@ -79,7 +79,7 @@
         "ColumnDataFormat": "String",
         "IsCategorical": true,
         "Type": "Column",
-        "Version": 1
+        "Version": 2
       }
     ]
   },
