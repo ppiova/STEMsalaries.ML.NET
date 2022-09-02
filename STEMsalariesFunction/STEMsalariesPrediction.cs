@@ -21,7 +21,7 @@ namespace STEMsalariesFunction
             ILogger log)
         {
             string requestBody = await new StreamReader(req.Body).ReadToEndAsync();
-            var taxiTrip = JsonConvert.DeserializeObject<Salary>(requestBody);
+            var salary = JsonConvert.DeserializeObject<Salary>(requestBody);
 
 
             bool isLocal = false; // set to false before publishing to Azure
@@ -31,11 +31,11 @@ namespace STEMsalariesFunction
             ITransformer mlModel = isLocal
                 ? LoadModelLocal(mlContext)
                 : LoadModelAzure(mlContext);
-
+            
             var predictionEnginePool = mlContext.Model
                 .CreatePredictionEngine<Salary, SalaryPrediction>(mlModel);
             
-            var prediction = predictionEnginePool.Predict(taxiTrip);
+            var prediction = predictionEnginePool.Predict(salary);
 
             return new OkObjectResult(prediction);
 
