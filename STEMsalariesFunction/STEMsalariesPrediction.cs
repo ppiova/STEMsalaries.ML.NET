@@ -24,7 +24,7 @@ namespace STEMsalariesFunction
             var taxiTrip = JsonConvert.DeserializeObject<Salary>(requestBody);
 
 
-            bool isLocal = true; // set to false before publishing to Azure
+            bool isLocal = false; // set to false before publishing to Azure
 
             MLContext mlContext = new MLContext();
 
@@ -34,14 +34,15 @@ namespace STEMsalariesFunction
 
             var predictionEnginePool = mlContext.Model
                 .CreatePredictionEngine<Salary, SalaryPrediction>(mlModel);
-
+            
             var prediction = predictionEnginePool.Predict(taxiTrip);
 
             return new OkObjectResult(prediction);
 
         }
+        //The same MLModelBuilder generated
         static readonly string MLModelFileName = "MLModel.zip";
-
+        
         static readonly string MLModelPath =
             Path.Combine(Environment.CurrentDirectory, MLModelFileName);
 
